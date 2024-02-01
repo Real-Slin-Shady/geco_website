@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gabriela Sophia | Geocomputation and Earth Observation</title>
+    <link>https://geco-group.org/author/gabriela-sophia/</link>
+      <atom:link href="https://geco-group.org/author/gabriela-sophia/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gabriela Sophia</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://geco-group.org/author/gabriela-sophia/avatar_hu89f637e3efad999cd080be4d2d1b95a6_52546_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Gabriela Sophia</title>
+      <link>https://geco-group.org/author/gabriela-sophia/</link>
+    </image>
+    
+  </channel>
+</rss>

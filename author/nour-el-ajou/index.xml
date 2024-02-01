@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nour El-Ajou | Geocomputation and Earth Observation</title>
+    <link>https://geco-group.org/author/nour-el-ajou/</link>
+      <atom:link href="https://geco-group.org/author/nour-el-ajou/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nour El-Ajou</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://geco-group.org/author/nour-el-ajou/avatar_huc8f42275533d9cdcc562515fe3373ed5_3756923_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Nour El-Ajou</title>
+      <link>https://geco-group.org/author/nour-el-ajou/</link>
+    </image>
+    
+  </channel>
+</rss>
