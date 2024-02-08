@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://geco-group.org/author/koen-hufkens/</loc>
-    <lastmod>2023-11-26T22:06:06+01:00</lastmod>
+    <lastmod>2024-02-02T13:21:09+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/author/laura-marques/</loc>
@@ -22,19 +22,87 @@
     <lastmod>2023-02-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://geco-group.org/publication-type/2/</loc>
+    <lastmod>2024-02-02T13:21:09+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/authors/</loc>
+    <lastmod>2024-02-02T13:21:09+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/author/benjamin-d.-stocker/</loc>
+    <lastmod>2024-02-02T13:21:09+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/tag/conlstm/</loc>
+    <lastmod>2024-02-02T13:21:09+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/tag/convlstm/</loc>
+    <lastmod>2024-02-02T13:21:09+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/tag/drought-impact/</loc>
+    <lastmod>2024-02-02T13:21:09+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/tag/drought-impact-forecasting/</loc>
+    <lastmod>2024-02-02T13:21:09+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/tag/earthnet/</loc>
+    <lastmod>2024-02-02T13:21:09+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/tag/earthnet2021/</loc>
+    <lastmod>2024-02-02T13:21:09+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/publication/kladny-24-ecolinf/</loc>
+    <lastmod>2024-02-02T13:21:09+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/</loc>
+    <lastmod>2024-02-02T13:21:09+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/author/klaus-rudolf-kladny/</loc>
+    <lastmod>2024-02-02T13:21:09+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/author/marco-milanta/</loc>
+    <lastmod>2024-02-02T13:21:09+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/tag/ndvi/</loc>
+    <lastmod>2024-02-02T13:21:09+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/author/oto-mraz/</loc>
+    <lastmod>2024-02-02T13:21:09+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/publication_types/</loc>
+    <lastmod>2024-02-02T13:21:09+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/publication/</loc>
+    <lastmod>2024-02-02T13:21:09+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/tag/sentinel-2/</loc>
+    <lastmod>2024-02-02T13:21:09+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/tags/</loc>
+    <lastmod>2024-02-02T13:21:09+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://geco-group.org/publication-type/0/</loc>
     <lastmod>2023-11-26T22:02:39+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://geco-group.org/publication-type/2/</loc>
-    <lastmod>2023-11-30T07:35:02+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://geco-group.org/publication/keenan-23-natcc/</loc>
-    <lastmod>2023-11-30T07:35:02+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/authors/</loc>
     <lastmod>2023-11-30T07:35:02+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -44,10 +112,6 @@
   </url><url>
     <loc>https://geco-group.org/author/b.-e.-medlyn/</loc>
     <lastmod>2023-11-30T07:35:02+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/author/benjamin-d.-stocker/</loc>
-    <lastmod>2023-11-26T22:06:06+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/tag/biogeochemistry/</loc>
@@ -71,10 +135,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/tag/emergent-constraint/</loc>
-    <lastmod>2023-11-30T07:35:02+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/</loc>
     <lastmod>2023-11-30T07:35:02+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -102,14 +162,6 @@
     <lastmod>2023-11-30T07:35:02+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://geco-group.org/publication_types/</loc>
-    <lastmod>2023-11-30T07:35:02+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/publication/</loc>
-    <lastmod>2023-11-30T07:35:02+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://geco-group.org/publication/paredes-23-biorxiv/</loc>
     <lastmod>2023-11-26T22:02:39+01:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -119,10 +171,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/author/t.-f.-keenan/</loc>
-    <lastmod>2023-11-30T07:35:02+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/tags/</loc>
     <lastmod>2023-11-30T07:35:02+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -1502,10 +1550,6 @@
     <lastmod>2022-09-17T14:25:45+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://geco-group.org/author/klaus-rudolf-kladny/</loc>
-    <lastmod>2022-09-17T14:25:03+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://geco-group.org/tag/land-use-changes/</loc>
     <lastmod>2022-09-17T14:25:45+02:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1530,20 +1574,12 @@
     <lastmod>2022-09-17T14:25:02+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://geco-group.org/author/marco-milanta/</loc>
-    <lastmod>2022-09-17T14:25:03+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://geco-group.org/author/masayuki-kondo/</loc>
     <lastmod>2022-09-17T14:25:45+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/author/nicolas-viovy/</loc>
     <lastmod>2022-09-17T14:25:45+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/author/oto-mraz/</loc>
-    <lastmod>2022-09-17T14:25:03+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/author/peter-anthoni/</loc>
