@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Patricia Gribi | Geocomputation and Earth Observation</title>
+    <link>https://geco-group.org/author/patricia-gribi/</link>
+      <atom:link href="https://geco-group.org/author/patricia-gribi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Patricia Gribi</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://geco-group.org/media/logo_hue21406914225b119becd577af1fb7f4d_583632_300x300_fit_lanczos_3.png</url>
+      <title>Patricia Gribi</title>
+      <link>https://geco-group.org/author/patricia-gribi/</link>
+    </image>
+    
+  </channel>
+</rss>
