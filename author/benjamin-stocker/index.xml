@@ -5,12 +5,21 @@
     <link>https://geco-group.org/author/benjamin-stocker/</link>
       <atom:link href="https://geco-group.org/author/benjamin-stocker/index.xml" rel="self" type="application/rss+xml" />
     <description>Benjamin Stocker</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 Oct 2023 15:22:44 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 19 Feb 2024 13:50:03 +0200</lastBuildDate>
     <image>
       <url>https://geco-group.org/author/benjamin-stocker/avatar_hub22ab3715787c0675119095230c99362_4135958_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Benjamin Stocker</title>
       <link>https://geco-group.org/author/benjamin-stocker/</link>
     </image>
+    
+    <item>
+      <title>Greenness of Swiss Forests</title>
+      <link>https://geco-group.org/project/greenness_chforests/</link>
+      <pubDate>Mon, 19 Feb 2024 13:50:03 +0200</pubDate>
+      <guid>https://geco-group.org/project/greenness_chforests/</guid>
+      <description>&lt;p&gt;We will develop an anomaly detection of the “greenness” of forests in Switzerland. Greenness is monitored by satellites and reflects the impacts of climate extremes (droughts, frost, storm, etc.). Detecting where and when climate extremes lead to vegetation stress and anomalous leaf senescence (browning) is challenging. Earth Observation data captures this these effects but extracting information from the large and noisy data volumes is challenging. However, its sheer volume, when combined with complementary geodata, enables novel machine learning-based methods to be applied for the task. This project explores new solutions for this challenge and find answers for an important task - mapping and quantifying impacts by climate extremes.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Make geospatial data with a time dimension into a tidy format</title>

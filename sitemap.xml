@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://geco-group.org/author/koen-hufkens/</loc>
-    <lastmod>2024-02-02T13:21:09+01:00</lastmod>
+    <lastmod>2024-02-19T13:50:03+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/author/laura-marques/</loc>
@@ -27,7 +27,7 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/authors/</loc>
-    <lastmod>2024-02-02T13:21:09+01:00</lastmod>
+    <lastmod>2024-02-19T13:50:03+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/author/benjamin-d.-stocker/</loc>
@@ -63,7 +63,7 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/</loc>
-    <lastmod>2024-02-02T13:21:09+01:00</lastmod>
+    <lastmod>2024-02-19T13:50:03+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/author/klaus-rudolf-kladny/</loc>
@@ -96,6 +96,22 @@
   </url><url>
     <loc>https://geco-group.org/tags/</loc>
     <lastmod>2024-02-02T13:21:09+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/author/benjamin-stocker/</loc>
+    <lastmod>2024-02-19T13:50:03+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/project/greenness_chforests/</loc>
+    <lastmod>2024-02-19T13:50:03+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/author/nils-tinner/</loc>
+    <lastmod>2024-02-19T13:50:03+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/project/</loc>
+    <lastmod>2024-02-19T13:50:03+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/publication-type/0/</loc>
@@ -180,10 +196,6 @@
   </url><url>
     <loc>https://geco-group.org/author/y.-zhang/</loc>
     <lastmod>2023-11-30T07:35:02+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/author/benjamin-stocker/</loc>
-    <lastmod>2023-10-27T15:22:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/post/</loc>
@@ -1675,10 +1687,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/project/leafnp/</loc>
-    <lastmod>2021-09-25T13:50:03+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/project/</loc>
     <lastmod>2021-09-25T13:50:03+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -4435,9 +4443,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/author/myriam-terristi/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/author/nils-tinner/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/author/nour-el-ajou/</loc>
