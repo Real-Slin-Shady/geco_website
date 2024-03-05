@@ -514,7 +514,7 @@
     <lastmod>2023-02-21T08:46:40+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://geco-group.org/event/hires_cwd/</loc>
+    <loc>https://geco-group.org/event_old/hires_cwd/</loc>
     <lastmod>2023-02-21T08:46:40+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -534,7 +534,11 @@
     <lastmod>2023-02-21T08:38:39+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://geco-group.org/event/cwd_trends/</loc>
+    <loc>https://geco-group.org/event_old/cwd_trends/</loc>
+    <lastmod>2023-02-21T08:36:01+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/tag/climate-of-the-past/</loc>
     <lastmod>2023-02-21T08:36:01+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -543,6 +547,10 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/tag/drought-impacts/</loc>
+    <lastmod>2023-02-21T08:36:01+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/event/cwd_millennium/</loc>
     <lastmod>2023-02-21T08:36:01+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
