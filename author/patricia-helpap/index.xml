@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Patricia Helpap | Geocomputation and Earth Observation</title>
+    <link>https://geco-group.org/author/patricia-helpap/</link>
+      <atom:link href="https://geco-group.org/author/patricia-helpap/index.xml" rel="self" type="application/rss+xml" />
+    <description>Patricia Helpap</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://geco-group.org/author/patricia-helpap/avatar_hue9f2975f11ab1bbd14e108834489b270_177364_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Patricia Helpap</title>
+      <link>https://geco-group.org/author/patricia-helpap/</link>
+    </image>
+    
+  </channel>
+</rss>
