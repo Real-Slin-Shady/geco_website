@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LEMONTREE | Geocomputation and Earth Observation</title>
+    <link>https://geco-group.org/tag/lemontree/</link>
+      <atom:link href="https://geco-group.org/tag/lemontree/index.xml" rel="self" type="application/rss+xml" />
+    <description>LEMONTREE</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 05 Apr 2024 08:57:24 +0100</lastBuildDate>
+    <image>
+      <url>https://geco-group.org/media/logo_hue21406914225b119becd577af1fb7f4d_583632_300x300_fit_lanczos_3.png</url>
+      <title>LEMONTREE</title>
+      <link>https://geco-group.org/tag/lemontree/</link>
+    </image>
+    
+    <item>
+      <title>PhD in Climate Sciences: Next-generation vegetation modelling (100%)</title>
+      <link>https://geco-group.org/event/phd_lemontree/</link>
+      <pubDate>Fri, 05 Apr 2024 08:57:24 +0100</pubDate>
+      <guid>https://geco-group.org/event/phd_lemontree/</guid>
+      <description>&lt;p&gt;Institute of Geography and Oeschger Centre for Climate Change Research, University of Bern&lt;/p&gt;
+&lt;p&gt;Start of employment: 01.09.2024 (latest)&lt;/p&gt;
+&lt;p&gt;Temporary employment&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Our group&lt;/strong&gt; for Geocomputation and Earth Observation develops new model and data integration methods to gain a mechanistic understanding of biogeochemical cycling in ecosystems, water-carbon coupling, and forest responses to climate change. We are hosted at the Institute of Geography, University of Bern, and work at the intersection of Earth system science, ecophysiology, ecology, applied statistics, and high-performance computing. Within the Virtual Earth Systems Research Insitute project LEMONTREE (Land Ecosystem Models based On New Theory, obseRvations, and ExperimEnts), we are recruiting a PhD student.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Background&lt;/strong&gt;  This project will tackle one of the major sources for uncertainty in climate and Earth system projections reliable predictions of how water and nutrients govern vegetation, carbon and water cycling, and their responses to a changing climate and CO2. The aim is to integrate eco-evolutionary optimality theory and observational constraints into a dynamic model for simulating global land ecosystem functioning and structure.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tasks&lt;/strong&gt;  You will innovate towards a next-generation vegetation model by combining improved ecosystem process understanding and first principles, numerical modelling, and model-data integration methods. Your work will extend the model developed and maintained in our group, integrating novel theory development by the LEMONTREE project partners. You will apply the model for testing novel theory against different observational data, including satellite remote sensing observations, ecosystem flux data, and ecosystem manipulation experiments. The PhD will be designed to maintaining intellectual freedom to refine project directions. Your work will generate improved predictive methods for climate change impacts in land ecosystems.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Requirements&lt;/strong&gt;  The candidate must hold a MSc degree in natural sciences, mathematics, or engineering and should demonstrate proficient English written and oral skills and excellent analytical and numerical skills. Experience with programming and other data science methods are an asset and an open and collaborative mentality for the development of our computational infrastructure is expected. The latest starting date for the PhD project is September 2024.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;We offer&lt;/strong&gt; the candidate to be part of a small group with a strong collaborative philosophy and to benefit from a leading academic environment, from an international collaboration within the project and from the excellent quality of life in Switzerland. This PhD will be placed within the Graduate School of Climate Sciences at Oeschger Centre for Climate Change Research (OCCR) and will draw on supervisory expertise and that bridges ecosystem science, hydrology, vegetation modelling, and climate science.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;For further information&lt;/strong&gt; about our group please visit Geco-group.org. Questions regarding the position should be directed to Prof. B. Stocker by email: &lt;a href=&#34;mailto:benjamin.stocker@unibe.ch&#34;&gt;benjamin.stocker@unibe.ch&lt;/a&gt; (no applications).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Interested?&lt;/strong&gt;  We look forward to receiving your online application including the following documents: Motivation letter (max. 2 pages, with a statement of research interests), a CV, copies of academic qualifications and the names and e-mail addresses of three referees. Please submit your application before 31 May 2024 to &lt;a href=&#34;mailto:geco.bern@gmail.com&#34;&gt;geco.bern@gmail.com&lt;/a&gt; with the subject &amp;lsquo;geco-002&amp;rsquo;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
