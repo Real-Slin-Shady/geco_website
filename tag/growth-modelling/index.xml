@@ -5,7 +5,7 @@
     <link>https://geco-group.org/tag/growth-modelling/</link>
       <atom:link href="https://geco-group.org/tag/growth-modelling/index.xml" rel="self" type="application/rss+xml" />
     <description>growth modelling</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 14 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 18 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://geco-group.org/media/logo_hue21406914225b119becd577af1fb7f4d_583632_300x300_fit_lanczos_3.png</url>
       <title>growth modelling</title>
@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>Master thesis - Sink vs. source control on tree growth</title>
-      <link>https://geco-group.org/event/sinksource/</link>
-      <pubDate>Wed, 14 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://geco-group.org/event/sinksource/</guid>
+      <title>Master thesis - Unlocking the power of tree-ring data for modelling forest carbon dynamics</title>
+      <link>https://geco-group.org/joinus/treerings/</link>
+      <pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/joinus/treerings/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -25,7 +25,28 @@
   &lt;/div&gt;
 &lt;/div&gt;
  --&gt;
-&lt;p&gt;&lt;strong&gt;Main supervision:&lt;/strong&gt; Prof. Dr. Benjamin Stocker, Dr. Jaideep Joshi
+&lt;p&gt;&lt;strong&gt;Context&lt;/strong&gt;: Tree-ring data is available in spades but has only marginally been used in the context of climate impacts on the land carbon cycle.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Aim&lt;/strong&gt;: This project will develop methods to use information of annual tree-ring anomalies for constraining modelled tree growth and forest dynamics in response to climate variability.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Methods&lt;/strong&gt;: Vegetation modelling (BiomeEP model) and model-data evaluation and calibration.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Main supervision:&lt;/strong&gt; Prof. Dr. Benjamin Stocker
+&lt;strong&gt;Co-supervision:&lt;/strong&gt; Dr. Stefan Klesse, WSL Birmensdorf&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Master thesis - Sink vs. source control on tree growth</title>
+      <link>https://geco-group.org/joinus/sinksource/</link>
+      <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/joinus/sinksource/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;p&gt;&lt;strong&gt;Main supervision:&lt;/strong&gt; Prof. Dr. Benjamin Stocker
 &lt;strong&gt;Co-supervision:&lt;/strong&gt; Dr. Antoine Cabon, WSL Birmensdorf&lt;/p&gt;
 &lt;p&gt;Forests currently represent a large carbon sink, offsetting a quarter of human CO2 emissions each year, bur large uncertainty remains on the future strength of this sink. Namely, vegetation models assume that tree growth is essentially limited by photosynthesis, but recent evidence suggests that currently unaccounted for biophysical limitations to tree growth by low temperatures and water stress can substantially decouple tree growth from photosynthesis. The degree to which biophysical limitations might slow down forest carbon storage is still unclear but has potentially critical implications for climate projections.&lt;/p&gt;
 &lt;p&gt;The objective of this project is to implement biophysical limitations to tree growth in an established mechanistic vegetation model in order to quantify the effect of these new controls on forest primary production. This will require (1) designing the integration of fine scale biophysical equations with carbon-based tree growth schemes of the vegetation model, (2) evaluating model performance against annual and decadal observations of historical tree growth and forest production across Europe and (3) simulate forest production using current and new tree growth schemes to evaluate the impact of biophysical limitations on forest production under different climate scenarios.&lt;/p&gt;

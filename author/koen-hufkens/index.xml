@@ -39,47 +39,6 @@
     </item>
     
     <item>
-      <title>Master and Bachelors theses - Topographic controls on vegetation patterns</title>
-      <link>https://geco-group.org/event/topo_veg/</link>
-      <pubDate>Tue, 21 Feb 2023 08:19:24 +0100</pubDate>
-      <guid>https://geco-group.org/event/topo_veg/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Supervision:&lt;/strong&gt; Dr. Koen Hufkens and Prof. Benjamin Stocker&lt;/p&gt;
-&lt;p&gt;We call on students to determine the importance of topographic and soil factors on natural vegetative landscape components (forest cover fraction, vegetation height, woody fraction).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /media/topo_veg_hu51805ea3816630da8584302a3a85823a_2235885_2bf19d0f703817b555b0eb7e38ac385c.webp 400w,
-               /media/topo_veg_hu51805ea3816630da8584302a3a85823a_2235885_f739eef616b39c6a7a9421f644d9bab8.webp 760w,
-               /media/topo_veg_hu51805ea3816630da8584302a3a85823a_2235885_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://geco-group.org/media/topo_veg_hu51805ea3816630da8584302a3a85823a_2235885_2bf19d0f703817b555b0eb7e38ac385c.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;562&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Above: Images from Fan et al., 2019 &lt;a href=&#34;https://doi.org/10.1029/2018WR023903&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1029/2018WR023903&lt;/a&gt;, (a) (&lt;a href=&#34;https://en.wikipedia.org/wiki/Desert_riparian;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://en.wikipedia.org/wiki/Desert_riparian;&lt;/a&gt; (b) GoogleEarth; (c) photo by Andrew Plumptre/WCS, &lt;a href=&#34;https://news.mongabay.com/2014/11/mapping&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://news.mongabay.com/2014/11/mapping&lt;/a&gt;‐mistake‐leaves‐wildlife‐at‐risk/; (d) &lt;a href=&#34;http://wikimapia.org/8582923/Pantanal&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://wikimapia.org/8582923/Pantanal&lt;/a&gt;‐Mato‐Grossense‐NationalPark&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Topographic features induce strong differences in the local micro-climate due to varying degrees of water availability (drainage) and insolation. Although these patterns are intuitive and readily visible in the landscape they are not considered in vegetation modelling due to scale issues. As a first step in improving vegetation modelling a deeper understanding of these patterns is required.&lt;/p&gt;
-&lt;p&gt;We invite students to model remote sensing based metrics of vegetation responses (e.g. vegetation greenness) in relation to different topographic predictors. There will be a strong focus on both the scientific component as well as the implementation, for which students will be required to use the Microsoft Planetary Computer.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Acclimation of phenology relieves leaf longevity constraints in deciduous forests</title>
       <link>https://geco-group.org/publication/marques-23-natee/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>

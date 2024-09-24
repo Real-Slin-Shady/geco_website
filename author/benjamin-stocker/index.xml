@@ -5,7 +5,7 @@
     <link>https://geco-group.org/author/benjamin-stocker/</link>
       <atom:link href="https://geco-group.org/author/benjamin-stocker/index.xml" rel="self" type="application/rss+xml" />
     <description>Benjamin Stocker</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 05 Apr 2024 08:57:24 +0100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 18 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://geco-group.org/author/benjamin-stocker/avatar_hub22ab3715787c0675119095230c99362_4135958_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Benjamin Stocker</title>
@@ -13,10 +13,74 @@
     </image>
     
     <item>
+      <title>Master thesis - LGM-Holocene vegetation dynamics</title>
+      <link>https://geco-group.org/joinus/lgmveg/</link>
+      <pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/joinus/lgmveg/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;p&gt;&lt;strong&gt;Context&lt;/strong&gt;: Vegetation dynamics and the land carbon cycle can now be modelled more realistically thanks to a new generation of demography-resolving vegetation models. The succession of vegetation types since the Last Glacial Maximum, as reconstructed paleo-climatic archives, provides a perfect test for these models’ hindcasts of vegetation change and thus also their forecasts of vegetation responses to future climate change.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Aim&lt;/strong&gt;: Model parameterisations for dominant European plant species will be developed and multi-millennial model simulations evaluated against vegetation reconstructions from lake sediments in the Alpine region.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Methods&lt;/strong&gt;: BiomeEP, paleo-climate simulation outputs, model parameterisation and evaluation.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Main supervision:&lt;/strong&gt; Prof. Dr. Benjamin Stocker
+&lt;strong&gt;Co-supervision:&lt;/strong&gt; Prof. Willy Tinner, Dr. Christoph Schwörer&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Master thesis - Unlocking the power of tree-ring data for modelling forest carbon dynamics</title>
+      <link>https://geco-group.org/joinus/treerings/</link>
+      <pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/joinus/treerings/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;p&gt;&lt;strong&gt;Context&lt;/strong&gt;: Tree-ring data is available in spades but has only marginally been used in the context of climate impacts on the land carbon cycle.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Aim&lt;/strong&gt;: This project will develop methods to use information of annual tree-ring anomalies for constraining modelled tree growth and forest dynamics in response to climate variability.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Methods&lt;/strong&gt;: Vegetation modelling (BiomeEP model) and model-data evaluation and calibration.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Main supervision:&lt;/strong&gt; Prof. Dr. Benjamin Stocker
+&lt;strong&gt;Co-supervision:&lt;/strong&gt; Dr. Stefan Klesse, WSL Birmensdorf&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Master thesis - Sink vs. source control on tree growth</title>
+      <link>https://geco-group.org/joinus/sinksource/</link>
+      <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/joinus/sinksource/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;p&gt;&lt;strong&gt;Main supervision:&lt;/strong&gt; Prof. Dr. Benjamin Stocker
+&lt;strong&gt;Co-supervision:&lt;/strong&gt; Dr. Antoine Cabon, WSL Birmensdorf&lt;/p&gt;
+&lt;p&gt;Forests currently represent a large carbon sink, offsetting a quarter of human CO2 emissions each year, bur large uncertainty remains on the future strength of this sink. Namely, vegetation models assume that tree growth is essentially limited by photosynthesis, but recent evidence suggests that currently unaccounted for biophysical limitations to tree growth by low temperatures and water stress can substantially decouple tree growth from photosynthesis. The degree to which biophysical limitations might slow down forest carbon storage is still unclear but has potentially critical implications for climate projections.&lt;/p&gt;
+&lt;p&gt;The objective of this project is to implement biophysical limitations to tree growth in an established mechanistic vegetation model in order to quantify the effect of these new controls on forest primary production. This will require (1) designing the integration of fine scale biophysical equations with carbon-based tree growth schemes of the vegetation model, (2) evaluating model performance against annual and decadal observations of historical tree growth and forest production across Europe and (3) simulate forest production using current and new tree growth schemes to evaluate the impact of biophysical limitations on forest production under different climate scenarios.&lt;/p&gt;
+&lt;p&gt;This thesis is a great starting point for mechanistic ecosystem modelling and working with large datasets of the terrestrial biosphere. Basic knowledge of programming are a requirement and prior experience with R and/or Fortran are an advantage. You may start as soon as you like. Please contact me directly if you’re interested.&lt;/p&gt;
+&lt;p&gt;This Master project is part of the &lt;a href=&#34;https://www.wsl.ch/de/projekte/micss-physiological-drivers-of-tree-growth.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MiCSS project&lt;/a&gt;, led by &lt;a href=&#34;https://www.wsl.ch/de/mitarbeitende/cabonant.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Antoine Cabon, WSL Birmensdorf&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>PhD in Climate Sciences: Next-generation vegetation modelling (100%)</title>
-      <link>https://geco-group.org/event/phd_lemontree/</link>
+      <link>https://geco-group.org/joinus_old/phd_lemontree/</link>
       <pubDate>Fri, 05 Apr 2024 08:57:24 +0100</pubDate>
-      <guid>https://geco-group.org/event/phd_lemontree/</guid>
+      <guid>https://geco-group.org/joinus_old/phd_lemontree/</guid>
       <description>&lt;p&gt;Institute of Geography and Oeschger Centre for Climate Change Research, University of Bern&lt;/p&gt;
 &lt;p&gt;Start of employment: 01.09.2024 (latest)&lt;/p&gt;
 &lt;p&gt;Temporary employment&lt;/p&gt;
@@ -27,6 +91,149 @@
 &lt;p&gt;&lt;strong&gt;We offer&lt;/strong&gt; the candidate to be part of a small group with a strong collaborative philosophy and to benefit from a leading academic environment, from an international collaboration within the project and from the excellent quality of life in Switzerland. This PhD will be placed within the Graduate School of Climate Sciences at Oeschger Centre for Climate Change Research (OCCR) and will draw on supervisory expertise and that bridges ecosystem science, hydrology, vegetation modelling, and climate science.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;For further information&lt;/strong&gt; about our group please visit Geco-group.org. Questions regarding the position should be directed to Prof. B. Stocker by email: &lt;a href=&#34;mailto:benjamin.stocker@unibe.ch&#34;&gt;benjamin.stocker@unibe.ch&lt;/a&gt; (no applications).&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Interested?&lt;/strong&gt;  We look forward to receiving your online application including the following documents: Motivation letter (max. 2 pages, with a statement of research interests), a CV, copies of academic qualifications and the names and e-mail addresses of three referees. Please submit your application before 31 May 2024 to &lt;a href=&#34;mailto:geco.bern@gmail.com&#34;&gt;geco.bern@gmail.com&lt;/a&gt; with the subject &amp;lsquo;geco-002&amp;rsquo;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bachelor or Master thesis - High resolution quantification of seasonal water deficits</title>
+      <link>https://geco-group.org/joinus/hires_cwd/</link>
+      <pubDate>Wed, 21 Feb 2024 08:46:40 +0100</pubDate>
+      <guid>https://geco-group.org/joinus/hires_cwd/</guid>
+      <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
+&lt;p&gt;Seasonal water deficits, caused by the imbalance of water from the land surface through evapotranspiration and runoff and the gain through precipitation, are an important driver of agricultural productivity and forest growth. Recent research by our group (Stocker et al., 2023) has revealed large spatial heterogeneity of seasonal water deficits across the globe at 5 km resolution - interpreted as a reflection of (otherwise unobservable) rooting zone water storage capacity across the soil and bedrock and of plant access to the groundwater, and as a reflection of water use in cropland areas.&lt;/p&gt;
+&lt;h2 id=&#34;aim&#34;&gt;Aim&lt;/h2&gt;
+&lt;p&gt;Novel data resources from &lt;a href=&#34;https://etdata.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OpenET&lt;/a&gt; now provide analysis-ready data at field-scale resolution. This provides an opportunity to extend the analysis of Stocker et al. (2023) to the hillslope-scale. You will develop a workflow to access cloud-hosted Earth Observation data and perform analyses for deriving cumulative water deficits. This will generate crucial insights for a better understanding of the role of terrain in shaping plant water availability and for informing land managers about the sustainability of water resource use.&lt;/p&gt;
+&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Most important: High motivation to work on questions related to land-atmosphere exchange and the carbon cycle - everything else can be learned!&lt;/li&gt;
+&lt;li&gt;Confidence to work with large datasets of the terrestrial biosphere.&lt;/li&gt;
+&lt;li&gt;Experience working with R or other data science tools are an advantage.&lt;/li&gt;
+&lt;li&gt;The student writes the thesis in English.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;supervision&#34;&gt;Supervision&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Prof. Benjamin Stocker&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Master thesis - Trends in seasonal water deficits</title>
+      <link>https://geco-group.org/joinus/cwd_trends/</link>
+      <pubDate>Wed, 21 Feb 2024 08:36:01 +0100</pubDate>
+      <guid>https://geco-group.org/joinus/cwd_trends/</guid>
+      <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
+&lt;p&gt;Droughts have major impacts on fluxes between land and the atmosphere, agricultural production, and the carbon cycle. Future projections of drought magnitude and frequencies are surprisingly divergent and interpretations of trends from Earth System Model outputs have drawn conflicting pictures of drought impact trends in a heating climate. Trends in precipitation, evapotranspiration, soil moisture, and runoff often point in different directions and are relevant for different aspects of what may be referred to as a “droughts”.&lt;/p&gt;
+&lt;h2 id=&#34;aim&#34;&gt;Aim&lt;/h2&gt;
+&lt;p&gt;You will target seasonal water deficits as an impact-relevant quantity measuring the severity of droughts. Using outputs from multiple models, scenarios, and model ensemble members of the the Climate Model Intercomparison Project Phase 6 (CMIP6), you will derive simulated cumulative water deficit (CWD) time series across the globe and investigate their long-term trends and differences between model projections.&lt;/p&gt;
+&lt;p&gt;This project builds on a completed BSc thesis and extends its focus to a larger set of model outputs and scenarios. Addressed as a MSc topic, there is a clear possiblity for a publication as a thesis outcome.&lt;/p&gt;
+&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Most important: High motivation to work on questions related to land-atmosphere exchange and the water cycle - everything else can be learned!&lt;/li&gt;
+&lt;li&gt;Interest in working with large datasets from Earth System Model outputs.&lt;/li&gt;
+&lt;li&gt;Experience working with R or other data science tools are an advantage.&lt;/li&gt;
+&lt;li&gt;The student writes the thesis in English.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;supervision&#34;&gt;Supervision&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Prof. Benjamin Stocker&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bachelor thesis - Importance of GPP extremes in eddy covariance data</title>
+      <link>https://geco-group.org/joinus/gpp_extremes/</link>
+      <pubDate>Wed, 21 Feb 2024 08:32:52 +0100</pubDate>
+      <guid>https://geco-group.org/joinus/gpp_extremes/</guid>
+      <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
+&lt;p&gt;The gross primary production (GPP) of an ecosystem, that is, the carbon it assimilates via photosynthesis, differs strongly from one year to the next. This variability between years is called the interannual variability (IAV) of GPP and the reasons for why GPP can change substantially from year to year are unclear. From a global scale analysis, we know that the seasonal cycles in precipitation and temperature in semi-arid ecoystems contribute substantially to the global IAV of GPP, highlighting the role of water and heat. We also know that even a few unusual hours in a total year can contribute disproportionately more to an ecosystems annual carbon uptake. For example, just 2% of unusually hot hours can account for ca. 10% of an ecosystems’ total annual GPP. Considering an increase in frequency and intensity of extreme events under climate change, a better quantification and characterisation of GPP extremes is crucial to estimate the future global carbon balance.&lt;/p&gt;
+&lt;h2 id=&#34;aim&#34;&gt;Aim&lt;/h2&gt;
+&lt;p&gt;The goal of this project is to quantify the role of GPP extremes on an ecosystem’s carbon uptake, using FLUXNET data (half-hourly measured land-atmosphere exchange of carbon dioxide). The first aim is to identify years that show GPP extremes, that is, anomalies in their annual total GPP. Then, a suitable method to assess the effect of extreme days within these anomalous years on the year’s total GPP is explored by (e.g., using a Gini index). Further questions may cover investigating the difference across globally distributed sites or comparing observed against modelled GPP to identify the drivers of GPP extremes.&lt;/p&gt;
+&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Most important: High motivation to work on questions related to land-atmosphere exchange and the carbon cycle - everything else can be learned!&lt;/li&gt;
+&lt;li&gt;Confidence to work with large datasets of the terrestrial biosphere.&lt;/li&gt;
+&lt;li&gt;Experience working with R or other data science tools are an advantage.&lt;/li&gt;
+&lt;li&gt;The student writes the thesis in English.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;literature&#34;&gt;Literature&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Ahlström A, Raupach MR, Schurgers G, Smith B, Arneth A, Jung M, Reichstein M, Canadell JG, Friedlingstein P, Jain AK, &lt;em&gt;et al.&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;2015&lt;/strong&gt;. The dominant role of semi-arid ecosystems in the trend and variability of the land CO 2 sink. &lt;em&gt;Science&lt;/em&gt; &lt;strong&gt;348&lt;/strong&gt;: 895–899.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Kannenberg SA, Bowling DR, Anderegg WRL&lt;/strong&gt;. &lt;strong&gt;2020&lt;/strong&gt;. Hot moments in ecosystem fluxes: High GPP anomalies exert outsized influence on the carbon cycle and are differentially driven by moisture availability across biomes. &lt;em&gt;Environmental Research Letters&lt;/em&gt; &lt;strong&gt;15&lt;/strong&gt;: 054004.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Launiainen S, Katul GG, Leppä K, Kolari P, Aslan T, Grönholm T, Korhonen L, Mammarella I, Vesala T&lt;/strong&gt;. &lt;strong&gt;2022&lt;/strong&gt;. Does growing atmospheric CO 2 explain increasing carbon sink in a boreal coniferous forest? &lt;em&gt;Global Change Biology&lt;/em&gt; &lt;strong&gt;28&lt;/strong&gt;: 2910–2929.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Wieder WR, Butterfield Z, Lindsay K, Lombardozzi DL, Keppel‐Aleks G&lt;/strong&gt;. &lt;strong&gt;2021&lt;/strong&gt;. Interannual and Seasonal Drivers of Carbon Cycle Variability Represented by the Community Earth System Model (CESM2). &lt;em&gt;Global Biogeochemical Cycles&lt;/em&gt; &lt;strong&gt;35&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;supervision&#34;&gt;Supervision&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Prof. Benjamin Stocker&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bachelor thesis - Ecosystem water balance and subsurface hydrology</title>
+      <link>https://geco-group.org/joinus/ecosystem_waterbalance/</link>
+      <pubDate>Wed, 21 Feb 2024 08:24:51 +0100</pubDate>
+      <guid>https://geco-group.org/joinus/ecosystem_waterbalance/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Supervision:&lt;/strong&gt; Prof. Benjamin Stocker&lt;/p&gt;
+&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
+&lt;p&gt;Exchange fluxes of water vapour between ecosystems and the atmosphere are commonly measured using eddy-covariance technique. This gives information about how much water is transpired by plants and evaporated from soil and plant surfaces. Such fluxes are measured across a hundreds of sites globally, data is available and regularly used in our group, and interesting patterns emerge. For example, some sites appear to evaporate a large fraction of annual precipitation. Some even more than annual precipitation. This raises important questions: Is this a data artefact? Or are there topographic and hydrological patterns that can explain differences between sites?&lt;/p&gt;
+&lt;h2 id=&#34;aim&#34;&gt;Aim&lt;/h2&gt;
+&lt;p&gt;This thesis will perform data analyses to relate measured annual mean evapotranspiration to site characteristics. Additional data will be prepared for characterising sites in terms of hydrological, topographic, soil, vegetation, and other aspects. The hypothesis to be tested is that sites that exhibit a high ratio of mean annual evapotranspiration over precipitation are located in topographic depressions, where subsurface water flow supplies water for evapotranspiration.&lt;/p&gt;
+&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;The student is motivated to work with large datasets of the terrestrial biosphere.&lt;/li&gt;
+&lt;li&gt;Experience working with R or other data science tools are an advantage.&lt;/li&gt;
+&lt;li&gt;The student writes the thesis in English.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;literature&#34;&gt;Literature&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://geco-bern.github.io/les/ecohydrology.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Land in the Earth System Chapter Ecohydrology&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Williams, C. A., Reichstein, M., Buchmann, N., Baldocchi, D., Beer, C., Schwalm, C., Wohlfahrt, G., Hasler, N., Bernhofer, C., Foken, T., Papale, D., Schymanski, S., and Schaefer, K.: Climate and vegetation controls on the surface water balance: Synthesis of evapotranspiration measured across a global network of flux towers, Water Resources Research, 48, &lt;a href=&#34;https://doi.org/10.1029/2011WR011586&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1029/2011WR011586&lt;/a&gt;, 2012.&lt;/li&gt;
+&lt;li&gt;Thompson, S. E., Harman, C. J., Konings, A. G., Sivapalan, M., Neal, A., and Troch, P. A.: Comparative hydrology across AmeriFlux sites: The variable roles of climate, vegetation, and groundwater, Water Resources Research, 47, &lt;a href=&#34;https://doi.org/10.1029/2010WR009797&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1029/2010WR009797&lt;/a&gt;, 2011.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Master and Bachelor theses - Topographic controls on vegetation patterns</title>
+      <link>https://geco-group.org/joinus/topo_veg/</link>
+      <pubDate>Wed, 21 Feb 2024 08:19:24 +0100</pubDate>
+      <guid>https://geco-group.org/joinus/topo_veg/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Supervision:&lt;/strong&gt; Dr. Koen Hufkens and Prof. Benjamin Stocker&lt;/p&gt;
+&lt;p&gt;We call on students to determine the importance of topographic and soil factors on natural vegetative landscape components (forest cover fraction, vegetation height, woody fraction).&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /media/topo_veg_hu51805ea3816630da8584302a3a85823a_2235885_2bf19d0f703817b555b0eb7e38ac385c.webp 400w,
+               /media/topo_veg_hu51805ea3816630da8584302a3a85823a_2235885_f739eef616b39c6a7a9421f644d9bab8.webp 760w,
+               /media/topo_veg_hu51805ea3816630da8584302a3a85823a_2235885_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geco-group.org/media/topo_veg_hu51805ea3816630da8584302a3a85823a_2235885_2bf19d0f703817b555b0eb7e38ac385c.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;562&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Above: Images from Fan et al., 2019 &lt;a href=&#34;https://doi.org/10.1029/2018WR023903&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1029/2018WR023903&lt;/a&gt;, (a) (&lt;a href=&#34;https://en.wikipedia.org/wiki/Desert_riparian;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://en.wikipedia.org/wiki/Desert_riparian;&lt;/a&gt; (b) GoogleEarth; (c) photo by Andrew Plumptre/WCS, &lt;a href=&#34;https://news.mongabay.com/2014/11/mapping&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://news.mongabay.com/2014/11/mapping&lt;/a&gt;‐mistake‐leaves‐wildlife‐at‐risk/; (d) &lt;a href=&#34;http://wikimapia.org/8582923/Pantanal&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://wikimapia.org/8582923/Pantanal&lt;/a&gt;‐Mato‐Grossense‐NationalPark&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Topographic features induce strong differences in the local micro-climate due to varying degrees of water availability (drainage) and insolation. Although these patterns are intuitive and readily visible in the landscape they are not considered in vegetation modelling due to scale issues. As a first step in improving vegetation modelling a deeper understanding of these patterns is required.&lt;/p&gt;
+&lt;p&gt;We invite students to model remote sensing based metrics of vegetation responses (e.g. vegetation greenness) in relation to different topographic predictors. There will be a strong focus on both the scientific component as well as the implementation, for which students will be required to use the Microsoft Planetary Computer.&lt;/p&gt;
 </description>
     </item>
     
@@ -181,9 +388,9 @@
     
     <item>
       <title>Postdoc in drone-based vegetation water stress monitoring</title>
-      <link>https://geco-group.org/event_old/postdoc_uav/</link>
+      <link>https://geco-group.org/joinus_old/postdoc_uav/</link>
       <pubDate>Mon, 01 May 2023 08:46:40 +0100</pubDate>
-      <guid>https://geco-group.org/event_old/postdoc_uav/</guid>
+      <guid>https://geco-group.org/joinus_old/postdoc_uav/</guid>
       <description>&lt;p&gt;Our group for Geocomputation and Earth Observation develops new model and data integration methods to gain a mechanistic understanding of the terrestrial biosphere. We are hosted at the Geography Institute of the University of Bern and work at the intersection of Earth system science, remote sensing, ecology, and hydrology.&lt;/p&gt;
 &lt;p&gt;This position serves to establish and consolidate near-range remote sensing capacities in our research group and integrate field-based research within the context of our research on drought impact monitoring and prediction.&lt;/p&gt;
 &lt;h2 id=&#34;tasks&#34;&gt;Tasks&lt;/h2&gt;
@@ -198,56 +405,10 @@
     </item>
     
     <item>
-      <title>Master thesis - High resolution quantification of seasonal water deficits</title>
-      <link>https://geco-group.org/event_old/hires_cwd/</link>
-      <pubDate>Tue, 21 Feb 2023 08:46:40 +0100</pubDate>
-      <guid>https://geco-group.org/event_old/hires_cwd/</guid>
-      <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
-&lt;p&gt;Seasonal water deficits, caused by the imbalance of water from the land surface through evapotranspiration and runoff and the gain through precipitation, are an important driver of agricultural productivity and forest growth. Recent research by our group (Stocker et al., 2023) has revealed large spatial heterogeneity of seasonal water deficits across the globe at 5 km resolution - interpreted as a reflection of (otherwise unobservable) rooting zone water storage capacity across the soil and bedrock and of plant access to the groundwater, and as a reflection of water use in cropland areas.&lt;/p&gt;
-&lt;h2 id=&#34;aim&#34;&gt;Aim&lt;/h2&gt;
-&lt;p&gt;Novel data resources now provide analysis-ready data at field-scale resolution. This provides an opportunity to extend the analysis of Stocker et al. (2023) to the hillslope-scale. You will develop a workflow to access cloud-hosted Earth Observation data and perform analyses for deriving cumulative water deficits. This will generate crucial insights for a better understanding of the role of terrain in shaping plant water availability and for informing land managers about the sustainability of water resource use.&lt;/p&gt;
-&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Most important: High motivation to work on questions related to land-atmosphere exchange and the carbon cycle - everything else can be learned!&lt;/li&gt;
-&lt;li&gt;Confidence to work with large datasets of the terrestrial biosphere.&lt;/li&gt;
-&lt;li&gt;Experience working with R or other data science tools are an advantage.&lt;/li&gt;
-&lt;li&gt;The student writes the thesis in English.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;supervision&#34;&gt;Supervision&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Prof. Benjamin Stocker&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Bachelor or Master thesis - Trends in seasonal water deficits</title>
-      <link>https://geco-group.org/event_old/cwd_trends/</link>
-      <pubDate>Tue, 21 Feb 2023 08:36:01 +0100</pubDate>
-      <guid>https://geco-group.org/event_old/cwd_trends/</guid>
-      <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
-&lt;p&gt;Droughts have major impacts on fluxes between land and the atmosphere, agricultural production, and the carbon cycle. Future projections of drought magnitude and frequencies are surprisingly divergent and interpretations of trends from Earth System Model outputs have drawn conflicting pictures of drought impact trends in a heating climate. Trends in precipitation, evapotranspiration, soil moisture, and runoff often point in different directions and are relevant for different aspects of what may be referred to as a “droughts”.&lt;/p&gt;
-&lt;h2 id=&#34;aim&#34;&gt;Aim&lt;/h2&gt;
-&lt;p&gt;You will target seasonal water deficits as an impact-relevant quantity measuring the severity of droughts. Using outputs from the Climate Model Intercomparison Project Phase 6 (CMIP6), you will derive simulated cumulative water deficit (CWD) time series across the globe for multiple models and investigate their long-term trends.&lt;/p&gt;
-&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Most important: High motivation to work on questions related to land-atmosphere exchange and the water cycle - everything else can be learned!&lt;/li&gt;
-&lt;li&gt;Interest in working with large datasets from Earth System Model outputs.&lt;/li&gt;
-&lt;li&gt;Experience working with R or other data science tools are an advantage.&lt;/li&gt;
-&lt;li&gt;The student writes the thesis in English.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;supervision&#34;&gt;Supervision&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Prof. Benjamin Stocker&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Master thesis - Droughts in the last millennium</title>
-      <link>https://geco-group.org/event_old/cwd_millennium/</link>
+      <link>https://geco-group.org/joinus_old/cwd_millennium/</link>
       <pubDate>Tue, 21 Feb 2023 08:36:01 +0100</pubDate>
-      <guid>https://geco-group.org/event_old/cwd_millennium/</guid>
+      <guid>https://geco-group.org/joinus_old/cwd_millennium/</guid>
       <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
 &lt;p&gt;There is a current scientific debate if the intensity of the recent 2003, 2015, and 2018 droughts is exceptional in the context of the last millennium. Based on tree-ring reconstructions, some authors find them to be within the range of natural variability (Ionita et al. 2021), while others describe them to be unprecedented (Büntgen et al. 2021). Our new climate reconstructions, generated by data-informed climate model simulations enable a testing of these hypotheses (Hand et al., 2023).&lt;/p&gt;
 &lt;h2 id=&#34;aim&#34;&gt;Aim&lt;/h2&gt;
@@ -477,33 +638,51 @@ We have already warmed the planet. Some loss of glaciers and snow is already und
     </item>
     
     <item>
-      <title>Master thesis - Sink vs. source control on tree growth</title>
-      <link>https://geco-group.org/event/sinksource/</link>
-      <pubDate>Wed, 14 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://geco-group.org/event/sinksource/</guid>
-      <description>&lt;!-- 
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
- --&gt;
-&lt;p&gt;&lt;strong&gt;Main supervision:&lt;/strong&gt; Prof. Dr. Benjamin Stocker, Dr. Jaideep Joshi
-&lt;strong&gt;Co-supervision:&lt;/strong&gt; Dr. Antoine Cabon, WSL Birmensdorf&lt;/p&gt;
-&lt;p&gt;Forests currently represent a large carbon sink, offsetting a quarter of human CO2 emissions each year, bur large uncertainty remains on the future strength of this sink. Namely, vegetation models assume that tree growth is essentially limited by photosynthesis, but recent evidence suggests that currently unaccounted for biophysical limitations to tree growth by low temperatures and water stress can substantially decouple tree growth from photosynthesis. The degree to which biophysical limitations might slow down forest carbon storage is still unclear but has potentially critical implications for climate projections.&lt;/p&gt;
-&lt;p&gt;The objective of this project is to implement biophysical limitations to tree growth in an established mechanistic vegetation model in order to quantify the effect of these new controls on forest primary production. This will require (1) designing the integration of fine scale biophysical equations with carbon-based tree growth schemes of the vegetation model, (2) evaluating model performance against annual and decadal observations of historical tree growth and forest production across Europe and (3) simulate forest production using current and new tree growth schemes to evaluate the impact of biophysical limitations on forest production under different climate scenarios.&lt;/p&gt;
-&lt;p&gt;This thesis is a great starting point for mechanistic ecosystem modelling and working with large datasets of the terrestrial biosphere. Basic knowledge of programming are a requirement and prior experience with R and/or Fortran are an advantage. You may start as soon as you like. Please contact me directly if you’re interested.&lt;/p&gt;
-&lt;p&gt;This Master project is part of the &lt;a href=&#34;https://www.wsl.ch/de/projekte/micss-physiological-drivers-of-tree-growth.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MiCSS project&lt;/a&gt;, led by &lt;a href=&#34;https://www.wsl.ch/de/mitarbeitende/cabonant.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Antoine Cabon, WSL Birmensdorf&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Are Land-Use Change Emissions in Southeast Asia Decreasing or Increasing?</title>
       <link>https://geco-group.org/publication/kondo-22/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://geco-group.org/publication/kondo-22/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Photosynthese und Spätfrost</title>
+      <link>https://geco-group.org/project/photocold_d/</link>
+      <pubDate>Sat, 25 Sep 2021 11:56:58 +0200</pubDate>
+      <guid>https://geco-group.org/project/photocold_d/</guid>
+      <description>&lt;p&gt;Die Kohlenstoffaufnahme von Wäldern in unseren Breiten ist stark an die saisonalen Schwankungen von Sonnenlicht und die Phänologie gekoppelt. Sobald im Frühling die Sonneneinstrahlung zunimmt und Blätter ausgetrieben werden, nimmt die Aufnahme von CO2 durch die Photosynthese rasch zu. Wir konnten zeigen, dass diese Zunahme an verschiedenen Standorten stark verzögert ist. Trotz rasch ansteigender Sonneneinstrahlung und grüner Vegetation, verzögert sich der saisonale Anstieg der CO2-Aufnahme an bestimmten Standorten um mehrere Wochen. Wir fanden heraus, dass diese Verzögerungen damit zu tun haben, dass an diesen Standorten Spätfrost besonders häufig auftritt – in Nordamerika und Regionen mit kontinentalem Klima, weniger aber in Regionen mit temperiertem, maritimem Klima, z.B. in Nordwesteuropa. Tiefe Temperaturen und hohe Sonneneinstrahlung kann für die Blattphysiologie schädlich sein. Die verzögerte Re-aktivierung der Photosynthese an diesen Standorten ist wahrscheinlich eine Anpassung zur Vermeidung von schädlichen meteorologischen Bedingungen.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /media/photocold_hub128e3b1275bc36b0488c5c647e87e67_632868_b12c5c8465ded379588c92035450b8fe.webp 400w,
+               /media/photocold_hub128e3b1275bc36b0488c5c647e87e67_632868_22f8c4bffd2d8c33da79d1e7a70e04b4.webp 760w,
+               /media/photocold_hub128e3b1275bc36b0488c5c647e87e67_632868_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geco-group.org/media/photocold_hub128e3b1275bc36b0488c5c647e87e67_632868_b12c5c8465ded379588c92035450b8fe.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;304&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Fig. 1 Saisonale Schwankung der CO2 Aufnahme durch die Photosynthese. Unterschieden sind (b) Daten von 14 Standorten, an welchen eine verspätete Zunahme der Photosynthese in Vergleich des zu erwartenden Flusses (rot) beobachtet wird (Beobachtungen schwarz). In (a) ist die mittlere jährliche Schwankung an 13 Standorten gezeigt, wo dieses Phänomen nicht auftritt.&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&#34;publizierte-studie&#34;&gt;Publizierte Studie&lt;/h3&gt;
+&lt;p&gt;Luo, Y., Gessler, A., D’Odorico, P., Hufkens, K., &amp;amp; Stocker, B. D. (2023). Quantifying effects of cold acclimation and delayed springtime photosynthesis resumption in northern ecosystems. New Phytologist, 240(3), 984–1002. &lt;a href=&#34;https://doi.org/10.1111/nph.19208&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1111/nph.19208&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>

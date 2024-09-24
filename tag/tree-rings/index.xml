@@ -5,7 +5,7 @@
     <link>https://geco-group.org/tag/tree-rings/</link>
       <atom:link href="https://geco-group.org/tag/tree-rings/index.xml" rel="self" type="application/rss+xml" />
     <description>tree rings</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 21 Feb 2023 08:38:39 +0100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 18 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://geco-group.org/media/logo_hue21406914225b119becd577af1fb7f4d_583632_300x300_fit_lanczos_3.png</url>
       <title>tree rings</title>
@@ -13,10 +13,31 @@
     </image>
     
     <item>
+      <title>Master thesis - Unlocking the power of tree-ring data for modelling forest carbon dynamics</title>
+      <link>https://geco-group.org/joinus/treerings/</link>
+      <pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/joinus/treerings/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;p&gt;&lt;strong&gt;Context&lt;/strong&gt;: Tree-ring data is available in spades but has only marginally been used in the context of climate impacts on the land carbon cycle.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Aim&lt;/strong&gt;: This project will develop methods to use information of annual tree-ring anomalies for constraining modelled tree growth and forest dynamics in response to climate variability.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Methods&lt;/strong&gt;: Vegetation modelling (BiomeEP model) and model-data evaluation and calibration.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Main supervision:&lt;/strong&gt; Prof. Dr. Benjamin Stocker
+&lt;strong&gt;Co-supervision:&lt;/strong&gt; Dr. Stefan Klesse, WSL Birmensdorf&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Master thesis - Global land carbon cycle modelling</title>
-      <link>https://geco-group.org/event/global_biomee/</link>
-      <pubDate>Tue, 21 Feb 2023 08:38:39 +0100</pubDate>
-      <guid>https://geco-group.org/event/global_biomee/</guid>
+      <link>https://geco-group.org/joinus/global_biomee/</link>
+      <pubDate>Wed, 21 Feb 2024 08:38:39 +0100</pubDate>
+      <guid>https://geco-group.org/joinus/global_biomee/</guid>
       <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
 &lt;p&gt;Dynamic Global Vegetation Models (DGVMs) are key tools for understanding biosphere-climate feedbacks and transient vegetation dynamics in response to global change. A novel vegetation demography model, the BiomeE, is a mechanistic cohort-based model which simulates vegetation dynamics and biogeochemical processes. This mechanistic model is able to simulate the size dependent competition, and thereby links plant functional traits, physiology, forest demography and stand dynamics. The GECO group has developed of a new framework for modelling of terrestrial biosphere processes (&lt;a href=&#34;https://geco-bern.github.io/rsofun/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;rsofun&lt;/a&gt;) that combines the BiomeE model with a photosynthesis model using optimality principles (P-model). This framework has been used to run site-level simulations in different regions, including boreal, temperate and tropical forests. Still, a global simulation capturing global patterns, has not carried out yet, but will be the basis for our future research on the global carbon cycle, potentially leading to participation in simulation activities for the Global Carbon Project. This thesis is an ideal entry point for your work in this direction.&lt;/p&gt;
 &lt;p&gt;

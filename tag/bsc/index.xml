@@ -5,7 +5,7 @@
     <link>https://geco-group.org/tag/bsc/</link>
       <atom:link href="https://geco-group.org/tag/bsc/index.xml" rel="self" type="application/rss+xml" />
     <description>BSc</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 21 Feb 2023 10:50:18 +0100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 21 Feb 2024 08:46:40 +0100</lastBuildDate>
     <image>
       <url>https://geco-group.org/media/logo_hue21406914225b119becd577af1fb7f4d_583632_300x300_fit_lanczos_3.png</url>
       <title>BSc</title>
@@ -13,49 +13,18 @@
     </image>
     
     <item>
-      <title>Bachelor thesis - Soil texture for ET modelling</title>
-      <link>https://geco-group.org/event_old/soiltext_et/</link>
-      <pubDate>Tue, 21 Feb 2023 10:50:18 +0100</pubDate>
-      <guid>https://geco-group.org/event_old/soiltext_et/</guid>
+      <title>Bachelor or Master thesis - High resolution quantification of seasonal water deficits</title>
+      <link>https://geco-group.org/joinus/hires_cwd/</link>
+      <pubDate>Wed, 21 Feb 2024 08:46:40 +0100</pubDate>
+      <guid>https://geco-group.org/joinus/hires_cwd/</guid>
       <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
-&lt;p&gt;Global terrestrial gross primary production (GPP), i.e., the uptake of CO2 by terrestrial plants, is often limited by the availability of soil water for evapotranspiration (ET). The amount of water a plant can take up from the soil depends on the soil texture, the depth of plant roots, and the storage capacity of the soil in the plant’s rooting zone. While long-term measurements of GPP and ET are available from sites across the globe (called the FLUXNET network), soil texture properties are not available in a common database. This project aims to assemble a datset of soil properties and plant traits at FLUXNET sites, and use it to predict ET over daily and weekly timescales.&lt;/p&gt;
+&lt;p&gt;Seasonal water deficits, caused by the imbalance of water from the land surface through evapotranspiration and runoff and the gain through precipitation, are an important driver of agricultural productivity and forest growth. Recent research by our group (Stocker et al., 2023) has revealed large spatial heterogeneity of seasonal water deficits across the globe at 5 km resolution - interpreted as a reflection of (otherwise unobservable) rooting zone water storage capacity across the soil and bedrock and of plant access to the groundwater, and as a reflection of water use in cropland areas.&lt;/p&gt;
 &lt;h2 id=&#34;aim&#34;&gt;Aim&lt;/h2&gt;
-&lt;p&gt;The goals of this project are as follows:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Assemble data on soil properties and traits at FLUXNET sites&lt;/li&gt;
-&lt;li&gt;Calibrate an existing water balance model based on its predictions of top-soil moisture content&lt;/li&gt;
-&lt;li&gt;Predict ET and cumulative water deficits and validate the same with flux data&lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;Novel data resources from &lt;a href=&#34;https://etdata.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OpenET&lt;/a&gt; now provide analysis-ready data at field-scale resolution. This provides an opportunity to extend the analysis of Stocker et al. (2023) to the hillslope-scale. You will develop a workflow to access cloud-hosted Earth Observation data and perform analyses for deriving cumulative water deficits. This will generate crucial insights for a better understanding of the role of terrain in shaping plant water availability and for informing land managers about the sustainability of water resource use.&lt;/p&gt;
 &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Most important: High motivation to work on questions related to land-atmosphere exchange and the carbon cycle - everything else can be learned!&lt;/li&gt;
-&lt;li&gt;Interest in working with large datasets of the terrestrial biosphere.&lt;/li&gt;
-&lt;li&gt;Experience working with R or other data science tools are an advantage.&lt;/li&gt;
-&lt;li&gt;The student writes the thesis in English.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;literature&#34;&gt;Literature&lt;/h2&gt;
-&lt;p&gt;Stocker, B.D., Tumber-Dávila, S.J., Konings, A.G. &lt;em&gt;et al.&lt;/em&gt;  Global patterns of water storage in the rooting zones of vegetation. &lt;em&gt;Nat. Geosci.&lt;/em&gt;  (2023). &lt;a href=&#34;https://doi.org/10.1038/s41561-023-01125-2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1038/s41561-023-01125-2&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;supervision&#34;&gt;Supervision&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Prof. Benjamin Stocke&lt;/li&gt;
-&lt;li&gt;Dr. Jaideep Joshi&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Bachelor or Master thesis - Trends in seasonal water deficits</title>
-      <link>https://geco-group.org/event_old/cwd_trends/</link>
-      <pubDate>Tue, 21 Feb 2023 08:36:01 +0100</pubDate>
-      <guid>https://geco-group.org/event_old/cwd_trends/</guid>
-      <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
-&lt;p&gt;Droughts have major impacts on fluxes between land and the atmosphere, agricultural production, and the carbon cycle. Future projections of drought magnitude and frequencies are surprisingly divergent and interpretations of trends from Earth System Model outputs have drawn conflicting pictures of drought impact trends in a heating climate. Trends in precipitation, evapotranspiration, soil moisture, and runoff often point in different directions and are relevant for different aspects of what may be referred to as a “droughts”.&lt;/p&gt;
-&lt;h2 id=&#34;aim&#34;&gt;Aim&lt;/h2&gt;
-&lt;p&gt;You will target seasonal water deficits as an impact-relevant quantity measuring the severity of droughts. Using outputs from the Climate Model Intercomparison Project Phase 6 (CMIP6), you will derive simulated cumulative water deficit (CWD) time series across the globe for multiple models and investigate their long-term trends.&lt;/p&gt;
-&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Most important: High motivation to work on questions related to land-atmosphere exchange and the water cycle - everything else can be learned!&lt;/li&gt;
-&lt;li&gt;Interest in working with large datasets from Earth System Model outputs.&lt;/li&gt;
+&lt;li&gt;Confidence to work with large datasets of the terrestrial biosphere.&lt;/li&gt;
 &lt;li&gt;Experience working with R or other data science tools are an advantage.&lt;/li&gt;
 &lt;li&gt;The student writes the thesis in English.&lt;/li&gt;
 &lt;/ul&gt;
@@ -68,9 +37,9 @@
     
     <item>
       <title>Bachelor thesis - Importance of GPP extremes in eddy covariance data</title>
-      <link>https://geco-group.org/event/gpp_extremes/</link>
-      <pubDate>Tue, 21 Feb 2023 08:32:52 +0100</pubDate>
-      <guid>https://geco-group.org/event/gpp_extremes/</guid>
+      <link>https://geco-group.org/joinus/gpp_extremes/</link>
+      <pubDate>Wed, 21 Feb 2024 08:32:52 +0100</pubDate>
+      <guid>https://geco-group.org/joinus/gpp_extremes/</guid>
       <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
 &lt;p&gt;The gross primary production (GPP) of an ecosystem, that is, the carbon it assimilates via photosynthesis, differs strongly from one year to the next. This variability between years is called the interannual variability (IAV) of GPP and the reasons for why GPP can change substantially from year to year are unclear. From a global scale analysis, we know that the seasonal cycles in precipitation and temperature in semi-arid ecoystems contribute substantially to the global IAV of GPP, highlighting the role of water and heat. We also know that even a few unusual hours in a total year can contribute disproportionately more to an ecosystems annual carbon uptake. For example, just 2% of unusually hot hours can account for ca. 10% of an ecosystems’ total annual GPP. Considering an increase in frequency and intensity of extreme events under climate change, a better quantification and characterisation of GPP extremes is crucial to estimate the future global carbon balance.&lt;/p&gt;
 &lt;h2 id=&#34;aim&#34;&gt;Aim&lt;/h2&gt;
@@ -91,7 +60,6 @@
 &lt;/ul&gt;
 &lt;h2 id=&#34;supervision&#34;&gt;Supervision&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Pascal Schneider&lt;/li&gt;
 &lt;li&gt;Prof. Benjamin Stocker&lt;/li&gt;
 &lt;/ul&gt;
 </description>
@@ -99,14 +67,15 @@
     
     <item>
       <title>Bachelor or Master thesis - Indentifying frost events and impacts in ecosystem flux measurements</title>
-      <link>https://geco-group.org/event/frost_gpp/</link>
-      <pubDate>Tue, 21 Feb 2023 08:24:51 +0100</pubDate>
-      <guid>https://geco-group.org/event/frost_gpp/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Supervision:&lt;/strong&gt; Dr. Laura Marques and Prof. Benjamin Stocker&lt;/p&gt;
+      <link>https://geco-group.org/joinus/frost_gpp/</link>
+      <pubDate>Wed, 21 Feb 2024 08:24:51 +0100</pubDate>
+      <guid>https://geco-group.org/joinus/frost_gpp/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Supervision:&lt;/strong&gt; Prof. Benjamin Stocker, &lt;strong&gt;Co-supervision:&lt;/strong&gt; Dr. Laura Marqués, Dr. Yann Vitasse (WSL Birmensdorf)&lt;/p&gt;
 &lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
 &lt;p&gt;Climate warming is driving an advance of leaf unfolding in trees, promoting longer growing seasons. However, the advance of the start-of-the-season (SOS) can induce &lt;em&gt;false springs&lt;/em&gt;, i.e., a stretch of unexpectedly warmer temperatures in late winter/early spring followed by sudden freezing events. These frost events after the SOS can affect the structure and function of terrestrial ecosystems and have important environmental and economic consequences. Still, there is little consensus on how frost events change under global warming and the implications. Therefore, it is relevant to understand the occurrence of frost events once the growing season has started and how they change among regions in temperate and boreal forests.&lt;/p&gt;
 &lt;h2 id=&#34;aim&#34;&gt;Aim&lt;/h2&gt;
 &lt;p&gt;The goal of this project is to identify when the frost events happen after the SOS and quantify their impact on carbon fluxes. The student will characterize the SOS using phenological measurements and ecosystem-level photosynthesis (gross primary production, GPP). Daily minimum temperatures will be used to calculate the number of frost events. The project design includes combining ground observations, eddy covariance flux measurements, remote sensing data and global climate datasets.&lt;/p&gt;
+&lt;p&gt;If addressed as a MSc topic, there is a possiblity for a publication as a thesis outcome.&lt;/p&gt;
 &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;The student is motivated to work with large datasets of the terrestrial biosphere.&lt;/li&gt;
@@ -124,10 +93,35 @@
     </item>
     
     <item>
-      <title>Master and Bachelors theses - Topographic controls on vegetation patterns</title>
-      <link>https://geco-group.org/event/topo_veg/</link>
-      <pubDate>Tue, 21 Feb 2023 08:19:24 +0100</pubDate>
-      <guid>https://geco-group.org/event/topo_veg/</guid>
+      <title>Bachelor thesis - Ecosystem water balance and subsurface hydrology</title>
+      <link>https://geco-group.org/joinus/ecosystem_waterbalance/</link>
+      <pubDate>Wed, 21 Feb 2024 08:24:51 +0100</pubDate>
+      <guid>https://geco-group.org/joinus/ecosystem_waterbalance/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Supervision:&lt;/strong&gt; Prof. Benjamin Stocker&lt;/p&gt;
+&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
+&lt;p&gt;Exchange fluxes of water vapour between ecosystems and the atmosphere are commonly measured using eddy-covariance technique. This gives information about how much water is transpired by plants and evaporated from soil and plant surfaces. Such fluxes are measured across a hundreds of sites globally, data is available and regularly used in our group, and interesting patterns emerge. For example, some sites appear to evaporate a large fraction of annual precipitation. Some even more than annual precipitation. This raises important questions: Is this a data artefact? Or are there topographic and hydrological patterns that can explain differences between sites?&lt;/p&gt;
+&lt;h2 id=&#34;aim&#34;&gt;Aim&lt;/h2&gt;
+&lt;p&gt;This thesis will perform data analyses to relate measured annual mean evapotranspiration to site characteristics. Additional data will be prepared for characterising sites in terms of hydrological, topographic, soil, vegetation, and other aspects. The hypothesis to be tested is that sites that exhibit a high ratio of mean annual evapotranspiration over precipitation are located in topographic depressions, where subsurface water flow supplies water for evapotranspiration.&lt;/p&gt;
+&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;The student is motivated to work with large datasets of the terrestrial biosphere.&lt;/li&gt;
+&lt;li&gt;Experience working with R or other data science tools are an advantage.&lt;/li&gt;
+&lt;li&gt;The student writes the thesis in English.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;literature&#34;&gt;Literature&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://geco-bern.github.io/les/ecohydrology.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Land in the Earth System Chapter Ecohydrology&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Williams, C. A., Reichstein, M., Buchmann, N., Baldocchi, D., Beer, C., Schwalm, C., Wohlfahrt, G., Hasler, N., Bernhofer, C., Foken, T., Papale, D., Schymanski, S., and Schaefer, K.: Climate and vegetation controls on the surface water balance: Synthesis of evapotranspiration measured across a global network of flux towers, Water Resources Research, 48, &lt;a href=&#34;https://doi.org/10.1029/2011WR011586&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1029/2011WR011586&lt;/a&gt;, 2012.&lt;/li&gt;
+&lt;li&gt;Thompson, S. E., Harman, C. J., Konings, A. G., Sivapalan, M., Neal, A., and Troch, P. A.: Comparative hydrology across AmeriFlux sites: The variable roles of climate, vegetation, and groundwater, Water Resources Research, 47, &lt;a href=&#34;https://doi.org/10.1029/2010WR009797&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1029/2010WR009797&lt;/a&gt;, 2011.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Master and Bachelor theses - Topographic controls on vegetation patterns</title>
+      <link>https://geco-group.org/joinus/topo_veg/</link>
+      <pubDate>Wed, 21 Feb 2024 08:19:24 +0100</pubDate>
+      <guid>https://geco-group.org/joinus/topo_veg/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Supervision:&lt;/strong&gt; Dr. Koen Hufkens and Prof. Benjamin Stocker&lt;/p&gt;
 &lt;p&gt;We call on students to determine the importance of topographic and soil factors on natural vegetative landscape components (forest cover fraction, vegetation height, woody fraction).&lt;/p&gt;
 &lt;p&gt;
@@ -161,6 +155,37 @@
 &lt;p&gt;&lt;em&gt;Above: Images from Fan et al., 2019 &lt;a href=&#34;https://doi.org/10.1029/2018WR023903&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1029/2018WR023903&lt;/a&gt;, (a) (&lt;a href=&#34;https://en.wikipedia.org/wiki/Desert_riparian;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://en.wikipedia.org/wiki/Desert_riparian;&lt;/a&gt; (b) GoogleEarth; (c) photo by Andrew Plumptre/WCS, &lt;a href=&#34;https://news.mongabay.com/2014/11/mapping&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://news.mongabay.com/2014/11/mapping&lt;/a&gt;‐mistake‐leaves‐wildlife‐at‐risk/; (d) &lt;a href=&#34;http://wikimapia.org/8582923/Pantanal&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://wikimapia.org/8582923/Pantanal&lt;/a&gt;‐Mato‐Grossense‐NationalPark&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Topographic features induce strong differences in the local micro-climate due to varying degrees of water availability (drainage) and insolation. Although these patterns are intuitive and readily visible in the landscape they are not considered in vegetation modelling due to scale issues. As a first step in improving vegetation modelling a deeper understanding of these patterns is required.&lt;/p&gt;
 &lt;p&gt;We invite students to model remote sensing based metrics of vegetation responses (e.g. vegetation greenness) in relation to different topographic predictors. There will be a strong focus on both the scientific component as well as the implementation, for which students will be required to use the Microsoft Planetary Computer.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bachelor thesis - Soil texture for ET modelling</title>
+      <link>https://geco-group.org/joinus_old/soiltext_et/</link>
+      <pubDate>Tue, 21 Feb 2023 10:50:18 +0100</pubDate>
+      <guid>https://geco-group.org/joinus_old/soiltext_et/</guid>
+      <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
+&lt;p&gt;Global terrestrial gross primary production (GPP), i.e., the uptake of CO2 by terrestrial plants, is often limited by the availability of soil water for evapotranspiration (ET). The amount of water a plant can take up from the soil depends on the soil texture, the depth of plant roots, and the storage capacity of the soil in the plant’s rooting zone. While long-term measurements of GPP and ET are available from sites across the globe (called the FLUXNET network), soil texture properties are not available in a common database. This project aims to assemble a datset of soil properties and plant traits at FLUXNET sites, and use it to predict ET over daily and weekly timescales.&lt;/p&gt;
+&lt;h2 id=&#34;aim&#34;&gt;Aim&lt;/h2&gt;
+&lt;p&gt;The goals of this project are as follows:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Assemble data on soil properties and traits at FLUXNET sites&lt;/li&gt;
+&lt;li&gt;Calibrate an existing water balance model based on its predictions of top-soil moisture content&lt;/li&gt;
+&lt;li&gt;Predict ET and cumulative water deficits and validate the same with flux data&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Most important: High motivation to work on questions related to land-atmosphere exchange and the carbon cycle - everything else can be learned!&lt;/li&gt;
+&lt;li&gt;Interest in working with large datasets of the terrestrial biosphere.&lt;/li&gt;
+&lt;li&gt;Experience working with R or other data science tools are an advantage.&lt;/li&gt;
+&lt;li&gt;The student writes the thesis in English.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;literature&#34;&gt;Literature&lt;/h2&gt;
+&lt;p&gt;Stocker, B.D., Tumber-Dávila, S.J., Konings, A.G. &lt;em&gt;et al.&lt;/em&gt;  Global patterns of water storage in the rooting zones of vegetation. &lt;em&gt;Nat. Geosci.&lt;/em&gt;  (2023). &lt;a href=&#34;https://doi.org/10.1038/s41561-023-01125-2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1038/s41561-023-01125-2&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;supervision&#34;&gt;Supervision&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Prof. Benjamin Stocke&lt;/li&gt;
+&lt;li&gt;Dr. Jaideep Joshi&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     

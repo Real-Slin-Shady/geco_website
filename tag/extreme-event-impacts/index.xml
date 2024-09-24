@@ -5,7 +5,7 @@
     <link>https://geco-group.org/tag/extreme-event-impacts/</link>
       <atom:link href="https://geco-group.org/tag/extreme-event-impacts/index.xml" rel="self" type="application/rss+xml" />
     <description>Extreme event impacts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 21 Feb 2023 08:32:52 +0100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 21 Feb 2024 08:32:52 +0100</lastBuildDate>
     <image>
       <url>https://geco-group.org/media/logo_hue21406914225b119becd577af1fb7f4d_583632_300x300_fit_lanczos_3.png</url>
       <title>Extreme event impacts</title>
@@ -14,9 +14,9 @@
     
     <item>
       <title>Bachelor thesis - Importance of GPP extremes in eddy covariance data</title>
-      <link>https://geco-group.org/event/gpp_extremes/</link>
-      <pubDate>Tue, 21 Feb 2023 08:32:52 +0100</pubDate>
-      <guid>https://geco-group.org/event/gpp_extremes/</guid>
+      <link>https://geco-group.org/joinus/gpp_extremes/</link>
+      <pubDate>Wed, 21 Feb 2024 08:32:52 +0100</pubDate>
+      <guid>https://geco-group.org/joinus/gpp_extremes/</guid>
       <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
 &lt;p&gt;The gross primary production (GPP) of an ecosystem, that is, the carbon it assimilates via photosynthesis, differs strongly from one year to the next. This variability between years is called the interannual variability (IAV) of GPP and the reasons for why GPP can change substantially from year to year are unclear. From a global scale analysis, we know that the seasonal cycles in precipitation and temperature in semi-arid ecoystems contribute substantially to the global IAV of GPP, highlighting the role of water and heat. We also know that even a few unusual hours in a total year can contribute disproportionately more to an ecosystems annual carbon uptake. For example, just 2% of unusually hot hours can account for ca. 10% of an ecosystems’ total annual GPP. Considering an increase in frequency and intensity of extreme events under climate change, a better quantification and characterisation of GPP extremes is crucial to estimate the future global carbon balance.&lt;/p&gt;
 &lt;h2 id=&#34;aim&#34;&gt;Aim&lt;/h2&gt;
@@ -37,7 +37,6 @@
 &lt;/ul&gt;
 &lt;h2 id=&#34;supervision&#34;&gt;Supervision&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Pascal Schneider&lt;/li&gt;
 &lt;li&gt;Prof. Benjamin Stocker&lt;/li&gt;
 &lt;/ul&gt;
 </description>
@@ -45,14 +44,15 @@
     
     <item>
       <title>Bachelor or Master thesis - Indentifying frost events and impacts in ecosystem flux measurements</title>
-      <link>https://geco-group.org/event/frost_gpp/</link>
-      <pubDate>Tue, 21 Feb 2023 08:24:51 +0100</pubDate>
-      <guid>https://geco-group.org/event/frost_gpp/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Supervision:&lt;/strong&gt; Dr. Laura Marques and Prof. Benjamin Stocker&lt;/p&gt;
+      <link>https://geco-group.org/joinus/frost_gpp/</link>
+      <pubDate>Wed, 21 Feb 2024 08:24:51 +0100</pubDate>
+      <guid>https://geco-group.org/joinus/frost_gpp/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Supervision:&lt;/strong&gt; Prof. Benjamin Stocker, &lt;strong&gt;Co-supervision:&lt;/strong&gt; Dr. Laura Marqués, Dr. Yann Vitasse (WSL Birmensdorf)&lt;/p&gt;
 &lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
 &lt;p&gt;Climate warming is driving an advance of leaf unfolding in trees, promoting longer growing seasons. However, the advance of the start-of-the-season (SOS) can induce &lt;em&gt;false springs&lt;/em&gt;, i.e., a stretch of unexpectedly warmer temperatures in late winter/early spring followed by sudden freezing events. These frost events after the SOS can affect the structure and function of terrestrial ecosystems and have important environmental and economic consequences. Still, there is little consensus on how frost events change under global warming and the implications. Therefore, it is relevant to understand the occurrence of frost events once the growing season has started and how they change among regions in temperate and boreal forests.&lt;/p&gt;
 &lt;h2 id=&#34;aim&#34;&gt;Aim&lt;/h2&gt;
 &lt;p&gt;The goal of this project is to identify when the frost events happen after the SOS and quantify their impact on carbon fluxes. The student will characterize the SOS using phenological measurements and ecosystem-level photosynthesis (gross primary production, GPP). Daily minimum temperatures will be used to calculate the number of frost events. The project design includes combining ground observations, eddy covariance flux measurements, remote sensing data and global climate datasets.&lt;/p&gt;
+&lt;p&gt;If addressed as a MSc topic, there is a possiblity for a publication as a thesis outcome.&lt;/p&gt;
 &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;The student is motivated to work with large datasets of the terrestrial biosphere.&lt;/li&gt;
@@ -65,6 +65,31 @@
 &lt;li&gt;Liu,  Q., Piao, S., Janssens, I.A. et al. (2018). Extension of the growing season increases vegetation exposure to frost. Nat Commun 9, 426 .&lt;/li&gt;
 &lt;li&gt;Hufkens,  K., Friedl, M.A., Keenan, T.F., Sonnentag, O., Bailey, A., O&amp;rsquo;Keefe, J. and Richardson, A.D. (2012). Ecological impacts of a widespread frost event following early spring leaf-out. Glob Change Biol, 18: 2365-2377.&lt;/li&gt;
 &lt;li&gt;Piao, S, Liu, Q, Chen, A, et al. (2019). Plant phenology and global climate change: Current progresses and challenges. Glob Change Biol. 25: 1922– 1940.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bachelor thesis - Ecosystem water balance and subsurface hydrology</title>
+      <link>https://geco-group.org/joinus/ecosystem_waterbalance/</link>
+      <pubDate>Wed, 21 Feb 2024 08:24:51 +0100</pubDate>
+      <guid>https://geco-group.org/joinus/ecosystem_waterbalance/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Supervision:&lt;/strong&gt; Prof. Benjamin Stocker&lt;/p&gt;
+&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
+&lt;p&gt;Exchange fluxes of water vapour between ecosystems and the atmosphere are commonly measured using eddy-covariance technique. This gives information about how much water is transpired by plants and evaporated from soil and plant surfaces. Such fluxes are measured across a hundreds of sites globally, data is available and regularly used in our group, and interesting patterns emerge. For example, some sites appear to evaporate a large fraction of annual precipitation. Some even more than annual precipitation. This raises important questions: Is this a data artefact? Or are there topographic and hydrological patterns that can explain differences between sites?&lt;/p&gt;
+&lt;h2 id=&#34;aim&#34;&gt;Aim&lt;/h2&gt;
+&lt;p&gt;This thesis will perform data analyses to relate measured annual mean evapotranspiration to site characteristics. Additional data will be prepared for characterising sites in terms of hydrological, topographic, soil, vegetation, and other aspects. The hypothesis to be tested is that sites that exhibit a high ratio of mean annual evapotranspiration over precipitation are located in topographic depressions, where subsurface water flow supplies water for evapotranspiration.&lt;/p&gt;
+&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;The student is motivated to work with large datasets of the terrestrial biosphere.&lt;/li&gt;
+&lt;li&gt;Experience working with R or other data science tools are an advantage.&lt;/li&gt;
+&lt;li&gt;The student writes the thesis in English.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;literature&#34;&gt;Literature&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://geco-bern.github.io/les/ecohydrology.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Land in the Earth System Chapter Ecohydrology&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Williams, C. A., Reichstein, M., Buchmann, N., Baldocchi, D., Beer, C., Schwalm, C., Wohlfahrt, G., Hasler, N., Bernhofer, C., Foken, T., Papale, D., Schymanski, S., and Schaefer, K.: Climate and vegetation controls on the surface water balance: Synthesis of evapotranspiration measured across a global network of flux towers, Water Resources Research, 48, &lt;a href=&#34;https://doi.org/10.1029/2011WR011586&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1029/2011WR011586&lt;/a&gt;, 2012.&lt;/li&gt;
+&lt;li&gt;Thompson, S. E., Harman, C. J., Konings, A. G., Sivapalan, M., Neal, A., and Troch, P. A.: Comparative hydrology across AmeriFlux sites: The variable roles of climate, vegetation, and groundwater, Water Resources Research, 47, &lt;a href=&#34;https://doi.org/10.1029/2010WR009797&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1029/2010WR009797&lt;/a&gt;, 2011.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

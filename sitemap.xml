@@ -7,7 +7,7 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/author/laura-marques/</loc>
-    <lastmod>2023-11-26T22:06:06+01:00</lastmod>
+    <lastmod>2024-02-21T08:38:39+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/author/yunpeng-luo/</loc>
@@ -22,12 +22,68 @@
     <lastmod>2023-02-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://geco-group.org/publication-type/2/</loc>
-    <lastmod>2024-02-02T13:21:09+01:00</lastmod>
+    <loc>https://geco-group.org/authors/</loc>
+    <lastmod>2024-09-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://geco-group.org/authors/</loc>
-    <lastmod>2024-04-05T08:57:24+01:00</lastmod>
+    <loc>https://geco-group.org/author/benjamin-stocker/</loc>
+    <lastmod>2024-09-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/tag/biomeep/</loc>
+    <lastmod>2024-09-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/</loc>
+    <lastmod>2024-09-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/tag/growth-modelling/</loc>
+    <lastmod>2024-09-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/joinus/</loc>
+    <lastmod>2024-09-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/joinus/lgmveg/</loc>
+    <lastmod>2024-09-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/joinus/treerings/</loc>
+    <lastmod>2024-09-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/tag/msc/</loc>
+    <lastmod>2024-09-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/tag/paleo-climate/</loc>
+    <lastmod>2024-09-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/tags/</loc>
+    <lastmod>2024-09-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/tag/tree-rings/</loc>
+    <lastmod>2024-09-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/tag/vegetation-dynamics/</loc>
+    <lastmod>2024-09-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/joinus/sinksource/</loc>
+    <lastmod>2024-09-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/tag/sink-limitation/</loc>
+    <lastmod>2024-09-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/publication-type/2/</loc>
+    <lastmod>2024-02-02T13:21:09+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/author/benjamin-d.-stocker/</loc>
@@ -62,10 +118,6 @@
     <lastmod>2024-02-02T13:21:09+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://geco-group.org/</loc>
-    <lastmod>2024-04-05T08:57:24+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://geco-group.org/author/klaus-rudolf-kladny/</loc>
     <lastmod>2024-02-02T13:21:09+01:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -94,19 +146,11 @@
     <lastmod>2024-02-02T13:21:09+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://geco-group.org/tags/</loc>
-    <lastmod>2024-04-05T08:57:24+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/author/benjamin-stocker/</loc>
-    <lastmod>2024-04-05T08:57:24+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://geco-group.org/tag/eco-evolutionary-optimality/</loc>
     <lastmod>2024-04-05T08:57:24+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://geco-group.org/event/</loc>
+    <loc>https://geco-group.org/joinus_old/</loc>
     <lastmod>2024-04-05T08:57:24+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -114,12 +158,84 @@
     <lastmod>2024-04-05T08:57:24+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://geco-group.org/event/phd_lemontree/</loc>
+    <loc>https://geco-group.org/joinus_old/phd_lemontree/</loc>
     <lastmod>2024-04-05T08:57:24+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/tag/vegetation-modelling/</loc>
     <lastmod>2024-04-05T08:57:24+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/joinus/hires_cwd/</loc>
+    <lastmod>2024-02-21T08:46:40+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/tag/bsc/</loc>
+    <lastmod>2024-02-21T08:46:40+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/tag/cumulative-water-deficit/</loc>
+    <lastmod>2024-02-21T08:46:40+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/tag/earth-observation/</loc>
+    <lastmod>2024-02-21T08:46:40+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/tag/fluxnet/</loc>
+    <lastmod>2024-02-21T08:38:39+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/tag/growth/</loc>
+    <lastmod>2024-02-21T08:38:39+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/joinus/global_biomee/</loc>
+    <lastmod>2024-02-21T08:38:39+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/tag/cmip6/</loc>
+    <lastmod>2024-02-21T08:36:01+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/tag/drought-impacts/</loc>
+    <lastmod>2024-02-21T08:36:01+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/joinus/cwd_trends/</loc>
+    <lastmod>2024-02-21T08:36:01+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/joinus/gpp_extremes/</loc>
+    <lastmod>2024-02-21T08:32:52+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/tag/extreme-event-impacts/</loc>
+    <lastmod>2024-02-21T08:32:52+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/tag/gpp/</loc>
+    <lastmod>2024-02-21T08:32:52+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/joinus/frost_gpp/</loc>
+    <lastmod>2024-02-21T08:24:51+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/joinus/ecosystem_waterbalance/</loc>
+    <lastmod>2024-02-21T08:24:51+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/tag/et/</loc>
+    <lastmod>2024-02-21T08:24:51+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/joinus/topo_veg/</loc>
+    <lastmod>2024-02-21T08:19:24+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/tag/topography/</loc>
+    <lastmod>2024-02-21T08:19:24+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/project/greenness_chforests/</loc>
@@ -175,10 +291,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/tag/emergent-constraint/</loc>
-    <lastmod>2023-11-30T07:35:02+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/tag/gpp/</loc>
     <lastmod>2023-11-30T07:35:02+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -314,10 +426,6 @@
     <lastmod>2023-09-07T15:57:30+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://geco-group.org/tag/fluxnet/</loc>
-    <lastmod>2023-09-07T15:57:30+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://geco-group.org/tag/lstm/</loc>
     <lastmod>2023-09-07T15:57:30+02:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -442,15 +550,11 @@
     <lastmod>2023-09-07T15:57:30+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://geco-group.org/event_old/</loc>
-    <lastmod>2023-05-01T08:46:40+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://geco-group.org/tag/postdoc/</loc>
     <lastmod>2023-05-01T08:46:40+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://geco-group.org/event_old/postdoc_uav/</loc>
+    <loc>https://geco-group.org/joinus_old/postdoc_uav/</loc>
     <lastmod>2023-05-01T08:46:40+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -486,15 +590,7 @@
     <lastmod>2023-09-07T15:57:30+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://geco-group.org/event_old/soiltext_et/</loc>
-    <lastmod>2023-02-21T10:50:18+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/tag/bsc/</loc>
-    <lastmod>2023-02-21T10:50:18+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/tag/et/</loc>
+    <loc>https://geco-group.org/joinus_old/soiltext_et/</loc>
     <lastmod>2023-02-21T10:50:18+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -506,11 +602,7 @@
     <lastmod>2023-02-21T09:09:34+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://geco-group.org/event/canopy_gradients/</loc>
-    <lastmod>2023-02-21T09:09:34+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/tag/msc/</loc>
+    <loc>https://geco-group.org/joinus_old/canopy_gradients/</loc>
     <lastmod>2023-02-21T09:09:34+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -522,72 +614,16 @@
     <lastmod>2023-02-21T09:09:34+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://geco-group.org/tag/cumulative-water-deficit/</loc>
-    <lastmod>2023-02-21T08:46:40+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/tag/earth-observation/</loc>
-    <lastmod>2023-02-21T08:46:40+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/event_old/hires_cwd/</loc>
-    <lastmod>2023-02-21T08:46:40+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/event_old/global_et/</loc>
+    <loc>https://geco-group.org/joinus_old/global_et/</loc>
     <lastmod>2023-02-21T08:40:38+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/tag/growth/</loc>
-    <lastmod>2023-02-21T08:38:39+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/event/global_biomee/</loc>
-    <lastmod>2023-02-21T08:38:39+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/tag/tree-rings/</loc>
-    <lastmod>2023-02-21T08:38:39+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/event_old/cwd_trends/</loc>
-    <lastmod>2023-02-21T08:36:01+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/tag/climate-of-the-past/</loc>
     <lastmod>2023-02-21T08:36:01+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://geco-group.org/tag/cmip/</loc>
+    <loc>https://geco-group.org/joinus_old/cwd_millennium/</loc>
     <lastmod>2023-02-21T08:36:01+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/tag/drought-impacts/</loc>
-    <lastmod>2023-02-21T08:36:01+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/event_old/cwd_millennium/</loc>
-    <lastmod>2023-02-21T08:36:01+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/event/gpp_extremes/</loc>
-    <lastmod>2023-02-21T08:32:52+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/tag/extreme-event-impacts/</loc>
-    <lastmod>2023-02-21T08:32:52+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/event/frost_gpp/</loc>
-    <lastmod>2023-02-21T08:24:51+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/event/topo_veg/</loc>
-    <lastmod>2023-02-21T08:19:24+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/tag/topography/</loc>
-    <lastmod>2023-02-21T08:19:24+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/post/every-ton/</loc>
@@ -1182,18 +1218,6 @@
     <lastmod>2023-11-26T22:06:06+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://geco-group.org/tag/growth-modelling/</loc>
-    <lastmod>2022-12-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/event/sinksource/</loc>
-    <lastmod>2022-12-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/tag/sink-limitation/</loc>
-    <lastmod>2022-12-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://geco-group.org/post/better-science/</loc>
     <lastmod>2022-11-17T17:17:30+01:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1426,11 +1450,11 @@
     <lastmod>2022-09-17T14:25:02+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://geco-group.org/event_old/eeo_fluxes/</loc>
+    <loc>https://geco-group.org/joinus_old/eeo_fluxes/</loc>
     <lastmod>2022-03-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://geco-group.org/event_old/landcover6k/</loc>
+    <loc>https://geco-group.org/joinus_old/landcover6k/</loc>
     <lastmod>2022-03-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -1739,6 +1763,10 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/project/mlflx/</loc>
+    <lastmod>2021-09-25T11:56:58+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/project/photocold_d/</loc>
     <lastmod>2021-09-25T11:56:58+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>

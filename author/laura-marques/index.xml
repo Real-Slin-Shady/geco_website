@@ -5,12 +5,103 @@
     <link>https://geco-group.org/author/laura-marques/</link>
       <atom:link href="https://geco-group.org/author/laura-marques/index.xml" rel="self" type="application/rss+xml" />
     <description>Laura Marqués</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 20 Sep 2023 17:17:30 +0100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 21 Feb 2024 08:38:39 +0100</lastBuildDate>
     <image>
       <url>https://geco-group.org/author/laura-marques/avatar_hub82fa3e2085cd91083ac779fea87797b_427524_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Laura Marqués</title>
       <link>https://geco-group.org/author/laura-marques/</link>
     </image>
+    
+    <item>
+      <title>Master thesis - Global land carbon cycle modelling</title>
+      <link>https://geco-group.org/joinus/global_biomee/</link>
+      <pubDate>Wed, 21 Feb 2024 08:38:39 +0100</pubDate>
+      <guid>https://geco-group.org/joinus/global_biomee/</guid>
+      <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
+&lt;p&gt;Dynamic Global Vegetation Models (DGVMs) are key tools for understanding biosphere-climate feedbacks and transient vegetation dynamics in response to global change. A novel vegetation demography model, the BiomeE, is a mechanistic cohort-based model which simulates vegetation dynamics and biogeochemical processes. This mechanistic model is able to simulate the size dependent competition, and thereby links plant functional traits, physiology, forest demography and stand dynamics. The GECO group has developed of a new framework for modelling of terrestrial biosphere processes (&lt;a href=&#34;https://geco-bern.github.io/rsofun/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;rsofun&lt;/a&gt;) that combines the BiomeE model with a photosynthesis model using optimality principles (P-model). This framework has been used to run site-level simulations in different regions, including boreal, temperate and tropical forests. Still, a global simulation capturing global patterns, has not carried out yet, but will be the basis for our future research on the global carbon cycle, potentially leading to participation in simulation activities for the Global Carbon Project. This thesis is an ideal entry point for your work in this direction.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /media/global_biomee_hu1fc26a5764c71c7ad2dd83d1c5d21ac2_1475022_0bb60b5e0ba5bc3736229262bfa4750c.webp 400w,
+               /media/global_biomee_hu1fc26a5764c71c7ad2dd83d1c5d21ac2_1475022_f30e2bdc15bb137e41da1b24a5282103.webp 760w,
+               /media/global_biomee_hu1fc26a5764c71c7ad2dd83d1c5d21ac2_1475022_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geco-group.org/media/global_biomee_hu1fc26a5764c71c7ad2dd83d1c5d21ac2_1475022_0bb60b5e0ba5bc3736229262bfa4750c.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;288&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Above: Prescribed global distribution of plant functional types. Figure from &lt;a href=&#34;https://doi.org/10.5194/gmd-15-8153-2022&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Weng et al., 2022&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;aim&#34;&gt;Aim&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Develop a wrapper for pixel-wise (parallelised) rsofun calls, given a path to global forcing files, as an R package.&lt;/li&gt;
+&lt;li&gt;Run BiomeE with P-model.&lt;/li&gt;
+&lt;li&gt;Preparations for Global Carbon Project simulations&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;The student is motivated to work and contribute to the development of a new modelling framework.&lt;/li&gt;
+&lt;li&gt;Experience working with R or other data science tools are a prerequisite.&lt;/li&gt;
+&lt;li&gt;Basic understanding of mathematical modelling and a keen interest to delve deeper into modelling and programming (R)&lt;/li&gt;
+&lt;li&gt;The student writes the thesis in English.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;literature&#34;&gt;Literature&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Weng, E. S., Malyshev, S., Lichstein, J. W., Farrior, C. E., Dybzinski, R., Zhang, T., Shevliakova, E., and Pacala, S. W. 2015: Scaling from individual trees to forests in an Earth system modeling framework using a mathematically tractable model of height-structured competition, Biogeosciences, 12, 2655–2694, &lt;a href=&#34;https://doi.org/10.5194/bg-12-2655-2015&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.5194/bg-12-2655-2015&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Weng, E., Dybzinski, R., Farrior, C. E., and Pacala, S. W. 2019: Competition alters predicted forest carbon cycle responses to nitrogen availability and elevated CO2: simulations using an explicitly competitive, game-theoretic vegetation demographic model, Biogeosciences, 16, 4577–4599, &lt;a href=&#34;https://doi.org/10.5194/bg-16-4577-2019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.5194/bg-16-4577-2019&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Stocker, B. D., Wang, H., Smith, N. G., Harrison, S. P., Keenan, T. F., Sandoval, D., Davis, T., and Prentice, I. C. 2020: P-model v1.0: an optimality-based light use efficiency model for simulating ecosystem gross primary production, Geosci. Model Dev., 13, 1545–1581, &lt;a href=&#34;https://doi.org/10.5194/gmd-13-1545-2020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.5194/gmd-13-1545-2020&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Weng, E., Aleinov, I., Singh, R., Puma, M. J., McDermid, S. S., Kiang, N. Y., Kelley, M., Wilcox, K., Dybzinski, R., Farrior, C. E., Pacala, S. W., and Cook, B. I. 2022: Modeling demographic-driven vegetation dynamics and ecosystem biogeochemical cycling in NASA GISS&amp;rsquo;s Earth system model (ModelE-BiomeE v.1.0), Geosci. Model Dev., 15, 8153–8180, &lt;a href=&#34;https://doi.org/10.5194/gmd-15-8153-2022&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.5194/gmd-15-8153-2022&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;supervision&#34;&gt;Supervision&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Dr. Laura Marqués&lt;/li&gt;
+&lt;li&gt;Prof. Benjamin Stocker&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bachelor or Master thesis - Indentifying frost events and impacts in ecosystem flux measurements</title>
+      <link>https://geco-group.org/joinus/frost_gpp/</link>
+      <pubDate>Wed, 21 Feb 2024 08:24:51 +0100</pubDate>
+      <guid>https://geco-group.org/joinus/frost_gpp/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Supervision:&lt;/strong&gt; Prof. Benjamin Stocker, &lt;strong&gt;Co-supervision:&lt;/strong&gt; Dr. Laura Marqués, Dr. Yann Vitasse (WSL Birmensdorf)&lt;/p&gt;
+&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
+&lt;p&gt;Climate warming is driving an advance of leaf unfolding in trees, promoting longer growing seasons. However, the advance of the start-of-the-season (SOS) can induce &lt;em&gt;false springs&lt;/em&gt;, i.e., a stretch of unexpectedly warmer temperatures in late winter/early spring followed by sudden freezing events. These frost events after the SOS can affect the structure and function of terrestrial ecosystems and have important environmental and economic consequences. Still, there is little consensus on how frost events change under global warming and the implications. Therefore, it is relevant to understand the occurrence of frost events once the growing season has started and how they change among regions in temperate and boreal forests.&lt;/p&gt;
+&lt;h2 id=&#34;aim&#34;&gt;Aim&lt;/h2&gt;
+&lt;p&gt;The goal of this project is to identify when the frost events happen after the SOS and quantify their impact on carbon fluxes. The student will characterize the SOS using phenological measurements and ecosystem-level photosynthesis (gross primary production, GPP). Daily minimum temperatures will be used to calculate the number of frost events. The project design includes combining ground observations, eddy covariance flux measurements, remote sensing data and global climate datasets.&lt;/p&gt;
+&lt;p&gt;If addressed as a MSc topic, there is a possiblity for a publication as a thesis outcome.&lt;/p&gt;
+&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;The student is motivated to work with large datasets of the terrestrial biosphere.&lt;/li&gt;
+&lt;li&gt;Experience working with R or other data science tools are an advantage.&lt;/li&gt;
+&lt;li&gt;The student writes the thesis in English.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;literature&#34;&gt;Literature&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Chamberlain,  C.J., Cook, B.I., Morales-Castilla, I. and Wolkovich, E.M. (2021).  Climate change reshapes the drivers of false spring risk across European trees. New Phytol, 229: 323-334.&lt;/li&gt;
+&lt;li&gt;Liu,  Q., Piao, S., Janssens, I.A. et al. (2018). Extension of the growing season increases vegetation exposure to frost. Nat Commun 9, 426 .&lt;/li&gt;
+&lt;li&gt;Hufkens,  K., Friedl, M.A., Keenan, T.F., Sonnentag, O., Bailey, A., O&amp;rsquo;Keefe, J. and Richardson, A.D. (2012). Ecological impacts of a widespread frost event following early spring leaf-out. Glob Change Biol, 18: 2365-2377.&lt;/li&gt;
+&lt;li&gt;Piao, S, Liu, Q, Chen, A, et al. (2019). Plant phenology and global climate change: Current progresses and challenges. Glob Change Biol. 25: 1922– 1940.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Understanding the growth-biomass links in mature forests</title>
@@ -149,96 +240,6 @@
 &lt;p&gt;Data analyses and evaluations were based on data from the Swiss National Forest Inventory (NFI), the Experimental Forest Management (EFM), and the Natural Forest Reserves (NFR) and are available upon request to the specific networks.&lt;/p&gt;
 &lt;h2 id=&#34;open-access-code&#34;&gt;Open access code&lt;/h2&gt;
 &lt;p&gt;Code for the data analyses and model simulations of this study are available at the GitHub repository geco-bern/GFDY, &lt;a href=&#34;https://doi.org/10.5281/zenodo.7326085&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.5281/zenodo.7326085&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Master thesis - Global land carbon cycle modelling</title>
-      <link>https://geco-group.org/event/global_biomee/</link>
-      <pubDate>Tue, 21 Feb 2023 08:38:39 +0100</pubDate>
-      <guid>https://geco-group.org/event/global_biomee/</guid>
-      <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
-&lt;p&gt;Dynamic Global Vegetation Models (DGVMs) are key tools for understanding biosphere-climate feedbacks and transient vegetation dynamics in response to global change. A novel vegetation demography model, the BiomeE, is a mechanistic cohort-based model which simulates vegetation dynamics and biogeochemical processes. This mechanistic model is able to simulate the size dependent competition, and thereby links plant functional traits, physiology, forest demography and stand dynamics. The GECO group has developed of a new framework for modelling of terrestrial biosphere processes (&lt;a href=&#34;https://geco-bern.github.io/rsofun/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;rsofun&lt;/a&gt;) that combines the BiomeE model with a photosynthesis model using optimality principles (P-model). This framework has been used to run site-level simulations in different regions, including boreal, temperate and tropical forests. Still, a global simulation capturing global patterns, has not carried out yet, but will be the basis for our future research on the global carbon cycle, potentially leading to participation in simulation activities for the Global Carbon Project. This thesis is an ideal entry point for your work in this direction.&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /media/global_biomee_hu1fc26a5764c71c7ad2dd83d1c5d21ac2_1475022_0bb60b5e0ba5bc3736229262bfa4750c.webp 400w,
-               /media/global_biomee_hu1fc26a5764c71c7ad2dd83d1c5d21ac2_1475022_f30e2bdc15bb137e41da1b24a5282103.webp 760w,
-               /media/global_biomee_hu1fc26a5764c71c7ad2dd83d1c5d21ac2_1475022_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://geco-group.org/media/global_biomee_hu1fc26a5764c71c7ad2dd83d1c5d21ac2_1475022_0bb60b5e0ba5bc3736229262bfa4750c.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;288&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Above: Prescribed global distribution of plant functional types. Figure from &lt;a href=&#34;https://doi.org/10.5194/gmd-15-8153-2022&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Weng et al., 2022&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id=&#34;aim&#34;&gt;Aim&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Develop a wrapper for pixel-wise (parallelised) rsofun calls, given a path to global forcing files, as an R package.&lt;/li&gt;
-&lt;li&gt;Run BiomeE with P-model.&lt;/li&gt;
-&lt;li&gt;Preparations for Global Carbon Project simulations&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;The student is motivated to work and contribute to the development of a new modelling framework.&lt;/li&gt;
-&lt;li&gt;Experience working with R or other data science tools are a prerequisite.&lt;/li&gt;
-&lt;li&gt;Basic understanding of mathematical modelling and a keen interest to delve deeper into modelling and programming (R)&lt;/li&gt;
-&lt;li&gt;The student writes the thesis in English.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;literature&#34;&gt;Literature&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Weng, E. S., Malyshev, S., Lichstein, J. W., Farrior, C. E., Dybzinski, R., Zhang, T., Shevliakova, E., and Pacala, S. W. 2015: Scaling from individual trees to forests in an Earth system modeling framework using a mathematically tractable model of height-structured competition, Biogeosciences, 12, 2655–2694, &lt;a href=&#34;https://doi.org/10.5194/bg-12-2655-2015&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.5194/bg-12-2655-2015&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Weng, E., Dybzinski, R., Farrior, C. E., and Pacala, S. W. 2019: Competition alters predicted forest carbon cycle responses to nitrogen availability and elevated CO2: simulations using an explicitly competitive, game-theoretic vegetation demographic model, Biogeosciences, 16, 4577–4599, &lt;a href=&#34;https://doi.org/10.5194/bg-16-4577-2019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.5194/bg-16-4577-2019&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Stocker, B. D., Wang, H., Smith, N. G., Harrison, S. P., Keenan, T. F., Sandoval, D., Davis, T., and Prentice, I. C. 2020: P-model v1.0: an optimality-based light use efficiency model for simulating ecosystem gross primary production, Geosci. Model Dev., 13, 1545–1581, &lt;a href=&#34;https://doi.org/10.5194/gmd-13-1545-2020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.5194/gmd-13-1545-2020&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Weng, E., Aleinov, I., Singh, R., Puma, M. J., McDermid, S. S., Kiang, N. Y., Kelley, M., Wilcox, K., Dybzinski, R., Farrior, C. E., Pacala, S. W., and Cook, B. I. 2022: Modeling demographic-driven vegetation dynamics and ecosystem biogeochemical cycling in NASA GISS&amp;rsquo;s Earth system model (ModelE-BiomeE v.1.0), Geosci. Model Dev., 15, 8153–8180, &lt;a href=&#34;https://doi.org/10.5194/gmd-15-8153-2022&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.5194/gmd-15-8153-2022&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;supervision&#34;&gt;Supervision&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Dr. Laura Marqués&lt;/li&gt;
-&lt;li&gt;Prof. Benjamin Stocker&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Bachelor or Master thesis - Indentifying frost events and impacts in ecosystem flux measurements</title>
-      <link>https://geco-group.org/event/frost_gpp/</link>
-      <pubDate>Tue, 21 Feb 2023 08:24:51 +0100</pubDate>
-      <guid>https://geco-group.org/event/frost_gpp/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Supervision:&lt;/strong&gt; Dr. Laura Marques and Prof. Benjamin Stocker&lt;/p&gt;
-&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
-&lt;p&gt;Climate warming is driving an advance of leaf unfolding in trees, promoting longer growing seasons. However, the advance of the start-of-the-season (SOS) can induce &lt;em&gt;false springs&lt;/em&gt;, i.e., a stretch of unexpectedly warmer temperatures in late winter/early spring followed by sudden freezing events. These frost events after the SOS can affect the structure and function of terrestrial ecosystems and have important environmental and economic consequences. Still, there is little consensus on how frost events change under global warming and the implications. Therefore, it is relevant to understand the occurrence of frost events once the growing season has started and how they change among regions in temperate and boreal forests.&lt;/p&gt;
-&lt;h2 id=&#34;aim&#34;&gt;Aim&lt;/h2&gt;
-&lt;p&gt;The goal of this project is to identify when the frost events happen after the SOS and quantify their impact on carbon fluxes. The student will characterize the SOS using phenological measurements and ecosystem-level photosynthesis (gross primary production, GPP). Daily minimum temperatures will be used to calculate the number of frost events. The project design includes combining ground observations, eddy covariance flux measurements, remote sensing data and global climate datasets.&lt;/p&gt;
-&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;The student is motivated to work with large datasets of the terrestrial biosphere.&lt;/li&gt;
-&lt;li&gt;Experience working with R or other data science tools are an advantage.&lt;/li&gt;
-&lt;li&gt;The student writes the thesis in English.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;literature&#34;&gt;Literature&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Chamberlain,  C.J., Cook, B.I., Morales-Castilla, I. and Wolkovich, E.M. (2021).  Climate change reshapes the drivers of false spring risk across European trees. New Phytol, 229: 323-334.&lt;/li&gt;
-&lt;li&gt;Liu,  Q., Piao, S., Janssens, I.A. et al. (2018). Extension of the growing season increases vegetation exposure to frost. Nat Commun 9, 426 .&lt;/li&gt;
-&lt;li&gt;Hufkens,  K., Friedl, M.A., Keenan, T.F., Sonnentag, O., Bailey, A., O&amp;rsquo;Keefe, J. and Richardson, A.D. (2012). Ecological impacts of a widespread frost event following early spring leaf-out. Glob Change Biol, 18: 2365-2377.&lt;/li&gt;
-&lt;li&gt;Piao, S, Liu, Q, Chen, A, et al. (2019). Plant phenology and global climate change: Current progresses and challenges. Glob Change Biol. 25: 1922– 1940.&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     

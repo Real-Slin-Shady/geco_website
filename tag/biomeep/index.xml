@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BiomeEP | Geocomputation and Earth Observation</title>
+    <link>https://geco-group.org/tag/biomeep/</link>
+      <atom:link href="https://geco-group.org/tag/biomeep/index.xml" rel="self" type="application/rss+xml" />
+    <description>BiomeEP</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 18 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geco-group.org/media/logo_hue21406914225b119becd577af1fb7f4d_583632_300x300_fit_lanczos_3.png</url>
+      <title>BiomeEP</title>
+      <link>https://geco-group.org/tag/biomeep/</link>
+    </image>
+    
+    <item>
+      <title>Master thesis - LGM-Holocene vegetation dynamics</title>
+      <link>https://geco-group.org/joinus/lgmveg/</link>
+      <pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/joinus/lgmveg/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;p&gt;&lt;strong&gt;Context&lt;/strong&gt;: Vegetation dynamics and the land carbon cycle can now be modelled more realistically thanks to a new generation of demography-resolving vegetation models. The succession of vegetation types since the Last Glacial Maximum, as reconstructed paleo-climatic archives, provides a perfect test for these models’ hindcasts of vegetation change and thus also their forecasts of vegetation responses to future climate change.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Aim&lt;/strong&gt;: Model parameterisations for dominant European plant species will be developed and multi-millennial model simulations evaluated against vegetation reconstructions from lake sediments in the Alpine region.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Methods&lt;/strong&gt;: BiomeEP, paleo-climate simulation outputs, model parameterisation and evaluation.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Main supervision:&lt;/strong&gt; Prof. Dr. Benjamin Stocker
+&lt;strong&gt;Co-supervision:&lt;/strong&gt; Prof. Willy Tinner, Dr. Christoph Schwörer&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Master thesis - Unlocking the power of tree-ring data for modelling forest carbon dynamics</title>
+      <link>https://geco-group.org/joinus/treerings/</link>
+      <pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/joinus/treerings/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;p&gt;&lt;strong&gt;Context&lt;/strong&gt;: Tree-ring data is available in spades but has only marginally been used in the context of climate impacts on the land carbon cycle.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Aim&lt;/strong&gt;: This project will develop methods to use information of annual tree-ring anomalies for constraining modelled tree growth and forest dynamics in response to climate variability.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Methods&lt;/strong&gt;: Vegetation modelling (BiomeEP model) and model-data evaluation and calibration.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Main supervision:&lt;/strong&gt; Prof. Dr. Benjamin Stocker
+&lt;strong&gt;Co-supervision:&lt;/strong&gt; Dr. Stefan Klesse, WSL Birmensdorf&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

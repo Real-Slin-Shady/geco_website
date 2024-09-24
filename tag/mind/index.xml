@@ -27,8 +27,8 @@
  --&gt;
 &lt;p&gt;The overarching aim of MIND is to develop new model and data fusion approaches to gain a mechanistic understanding of biogeochemical cycling in ecosystems, water-carbon coupling, and forest responses to climate change. We work at the intersection of Earth system science, ecophysiology, ecology, applied statistics, and high-performance computing and use the widest possible diversity of observational data.&lt;/p&gt;
 &lt;p&gt;A postdoc position to work with me on this project (see below &amp;lsquo;Postdoc: Scaling from trees to the forest&amp;rsquo;) is open now. A link to the ad and application is &lt;a href=&#34;https://apply.refline.ch/845721/7239/pub/1/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;!-- ![MIND Eccellenza across scales](/img/dreamstime_m_76702519_verysmall.jpg) --&gt;
-&lt;!-- ![](/img/tree_root_allocation2_small.jpg) --&gt;
+&lt;!-- ![MIND Eccellenza across scales](dreamstime_m_76702519_verysmall.jpg) --&gt;
+&lt;!-- ![](tree_root_allocation2_small.jpg) --&gt;
 &lt;p&gt;
 
 
@@ -47,7 +47,14 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://geco-group.org/img/mind_scales.png&#34; alt=&#34;MIND Eccellenza across scales&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;MIND Eccellenza across scales&#34; srcset=&#34;
+               /media/mind_scales_hu6bc4f750256f5f29e2d62dd92687d6bd_1544172_ff605a2daacc213fc5805b5d779e39a6.webp 400w,
+               /media/mind_scales_hu6bc4f750256f5f29e2d62dd92687d6bd_1544172_7f673638677fc8de5251b076706cfcf0.webp 760w,
+               /media/mind_scales_hu6bc4f750256f5f29e2d62dd92687d6bd_1544172_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geco-group.org/media/mind_scales_hu6bc4f750256f5f29e2d62dd92687d6bd_1544172_ff605a2daacc213fc5805b5d779e39a6.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;262&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;h2 id=&#34;key-questions&#34;&gt;Key questions&lt;/h2&gt;
@@ -79,7 +86,14 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://geco-group.org/img/mind_scales_obs.png&#34; alt=&#34;MIND Eccellenza across scales&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;MIND Eccellenza across scales&#34; srcset=&#34;
+               /media/mind_scales_obs_huf6fd798e442f32325404401126ae4a48_1334536_ea59d773aa779553895a3ea9b9963151.webp 400w,
+               /media/mind_scales_obs_huf6fd798e442f32325404401126ae4a48_1334536_baddfcd7f968aeba767578221c42e6aa.webp 760w,
+               /media/mind_scales_obs_huf6fd798e442f32325404401126ae4a48_1334536_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geco-group.org/media/mind_scales_obs_huf6fd798e442f32325404401126ae4a48_1334536_ea59d773aa779553895a3ea9b9963151.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;262&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;h2 id=&#34;approach&#34;&gt;Approach&lt;/h2&gt;
@@ -116,7 +130,14 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://geco-group.org/img/mind_scales_projectorg.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /media/mind_scales_projectorg_hu11e131baa57ea1838b36fa04d0df14d0_1119432_173ffa4f833b1d6c1b5a77efc0d39c2d.webp 400w,
+               /media/mind_scales_projectorg_hu11e131baa57ea1838b36fa04d0df14d0_1119432_4950176caac36c676780ce4628dc8380.webp 760w,
+               /media/mind_scales_projectorg_hu11e131baa57ea1838b36fa04d0df14d0_1119432_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geco-group.org/media/mind_scales_projectorg_hu11e131baa57ea1838b36fa04d0df14d0_1119432_173ffa4f833b1d6c1b5a77efc0d39c2d.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;381&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;h3 id=&#34;phd-1-the-nature-of-nutrient-limitation&#34;&gt;PhD 1: The nature of nutrient limitation&lt;/h3&gt;
@@ -144,7 +165,14 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://geco-group.org/img/mind_scales_nutrients.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /media/mind_scales_nutrients_hu1a575e9ddd112e262a369baee49a5d6f_954008_106e1239c898b3c1c431bb1c4fa04aa5.webp 400w,
+               /media/mind_scales_nutrients_hu1a575e9ddd112e262a369baee49a5d6f_954008_8b9fe14bf384272fc13ec12428c26268.webp 760w,
+               /media/mind_scales_nutrients_hu1a575e9ddd112e262a369baee49a5d6f_954008_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geco-group.org/media/mind_scales_nutrients_hu1a575e9ddd112e262a369baee49a5d6f_954008_106e1239c898b3c1c431bb1c4fa04aa5.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;158&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;We will use the Global Change Manipulation Experiments database (under development, collaboration with &lt;a href=&#34;https://www.uantwerpen.be/en/staff/sara-vicca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Sara Vicca, PLECO, University of Antwerp&lt;/a&gt;) and explore the observational constraints on alternative model formulations for simulating coupled carbon and nitrogen dynamics in terrestrial ecoystems. This work will make important advances on several fronts: Generating fundamental insights into ecosystem dynamics and biogeochemical cycles, exploring new territory in model-data fusion on the basis of observations from manipulation experiments, and developing a reusable and scalable model testbed as the basis of future community-driven model intercomparisons.&lt;/p&gt;
@@ -181,7 +209,14 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://geco-group.org/img/mind_scales_objectiveC.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /media/mind_scales_objectiveC_hu524b62905a2e43cea03517e912854fd1_1182828_823076274f22ab7b868e70013811806f.webp 400w,
+               /media/mind_scales_objectiveC_hu524b62905a2e43cea03517e912854fd1_1182828_e49b038ca2038fcb8f557b0c59b19fdc.webp 760w,
+               /media/mind_scales_objectiveC_hu524b62905a2e43cea03517e912854fd1_1182828_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geco-group.org/media/mind_scales_objectiveC_hu524b62905a2e43cea03517e912854fd1_1182828_823076274f22ab7b868e70013811806f.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;167&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;How does climate change alter forest dynamics and what are implications for the global carbon cycle and local ecosystem services? Increasing CO2, trends in nutrient inputs from atmospheric deposition, extending growing seasons and changing drought patterns affect tree growth and forest biomass in myriad ways. One of the open key questions is whether stimulated growth in a high-CO2 world is compensated by an accelerated tree life cycle and higher mortality.&lt;/p&gt;

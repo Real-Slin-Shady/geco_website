@@ -5,7 +5,7 @@
     <link>https://geco-group.org/tag/msc/</link>
       <atom:link href="https://geco-group.org/tag/msc/index.xml" rel="self" type="application/rss+xml" />
     <description>MSc</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 21 Feb 2023 09:09:34 +0100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 18 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://geco-group.org/media/logo_hue21406914225b119becd577af1fb7f4d_583632_300x300_fit_lanczos_3.png</url>
       <title>MSc</title>
@@ -13,46 +13,78 @@
     </image>
     
     <item>
-      <title>Master thesis - Modelling optimal acclimation across canopy gradients</title>
-      <link>https://geco-group.org/event/canopy_gradients/</link>
-      <pubDate>Tue, 21 Feb 2023 09:09:34 +0100</pubDate>
-      <guid>https://geco-group.org/event/canopy_gradients/</guid>
-      <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
-&lt;p&gt;The rate of CO2 uptake by photosynthesis is determined by the acclimation of leaves to the prevailing light environment. In dense forests, light intensity decreases exponentially as we go from the top of the canopy towards the ground, as light is absorbed and scattered by leaves. However, the acclimated photosynthetic capacity of understorey leaves is higher than what we would expect based on the exponential decay of light. This is because these leaves acclimate to sun-flecks - small flecks of sunlight appear in understory due to gaps in the canopy, and because of the movement of the sun through the sky. Therefore, predicting the acclimation of understorey leaves requires considering the variability in light availability.&lt;/p&gt;
-&lt;h2 id=&#34;aim&#34;&gt;Aim&lt;/h2&gt;
-&lt;p&gt;The goals of this project are:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;To quantify the variability in direct and diffuse sunlight in the understorey, either using either a radiative transfer model, or using fat-tailed probability distributions&lt;/li&gt;
-&lt;li&gt;To use the P-model of photosynthesis to predict the optimal acclimation of photosynthetic capacity given the distribution of light intensity&lt;/li&gt;
-&lt;li&gt;To test the model predictions with data on canopy gradients from the CH-Lae site and possibly from the Netravali site.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Most important: High motivation to work on questions related to plant physiology.&lt;/li&gt;
-&lt;li&gt;Basic understanding of mathematical modelling and a keen interest to delve deeper into modelling and programming (R, Fortran)&lt;/li&gt;
-&lt;li&gt;Experience working with R or other data science tools are a prerequisite.&lt;/li&gt;
-&lt;li&gt;The student writes the thesis in English.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;methods&#34;&gt;Methods&lt;/h2&gt;
-&lt;p&gt;Implement the P-model (or some concept of optimality) in SPA (or any other model that simulates light gradient in canopy) at different levels of canopy depth and predict within-canopy gradients in photosynthetic capacity, leaf N, and LMA.&lt;/p&gt;
-&lt;h2 id=&#34;supervision&#34;&gt;Supervision&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Jaideep Joshi&lt;/li&gt;
-&lt;li&gt;Pascal Schneider&lt;/li&gt;
-&lt;li&gt;Prof. Benjamin Stocker&lt;/li&gt;
-&lt;/ul&gt;
+      <title>Master thesis - LGM-Holocene vegetation dynamics</title>
+      <link>https://geco-group.org/joinus/lgmveg/</link>
+      <pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/joinus/lgmveg/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;p&gt;&lt;strong&gt;Context&lt;/strong&gt;: Vegetation dynamics and the land carbon cycle can now be modelled more realistically thanks to a new generation of demography-resolving vegetation models. The succession of vegetation types since the Last Glacial Maximum, as reconstructed paleo-climatic archives, provides a perfect test for these models’ hindcasts of vegetation change and thus also their forecasts of vegetation responses to future climate change.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Aim&lt;/strong&gt;: Model parameterisations for dominant European plant species will be developed and multi-millennial model simulations evaluated against vegetation reconstructions from lake sediments in the Alpine region.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Methods&lt;/strong&gt;: BiomeEP, paleo-climate simulation outputs, model parameterisation and evaluation.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Main supervision:&lt;/strong&gt; Prof. Dr. Benjamin Stocker
+&lt;strong&gt;Co-supervision:&lt;/strong&gt; Prof. Willy Tinner, Dr. Christoph Schwörer&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Master thesis - High resolution quantification of seasonal water deficits</title>
-      <link>https://geco-group.org/event_old/hires_cwd/</link>
-      <pubDate>Tue, 21 Feb 2023 08:46:40 +0100</pubDate>
-      <guid>https://geco-group.org/event_old/hires_cwd/</guid>
+      <title>Master thesis - Unlocking the power of tree-ring data for modelling forest carbon dynamics</title>
+      <link>https://geco-group.org/joinus/treerings/</link>
+      <pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/joinus/treerings/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;p&gt;&lt;strong&gt;Context&lt;/strong&gt;: Tree-ring data is available in spades but has only marginally been used in the context of climate impacts on the land carbon cycle.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Aim&lt;/strong&gt;: This project will develop methods to use information of annual tree-ring anomalies for constraining modelled tree growth and forest dynamics in response to climate variability.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Methods&lt;/strong&gt;: Vegetation modelling (BiomeEP model) and model-data evaluation and calibration.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Main supervision:&lt;/strong&gt; Prof. Dr. Benjamin Stocker
+&lt;strong&gt;Co-supervision:&lt;/strong&gt; Dr. Stefan Klesse, WSL Birmensdorf&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Master thesis - Sink vs. source control on tree growth</title>
+      <link>https://geco-group.org/joinus/sinksource/</link>
+      <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/joinus/sinksource/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;p&gt;&lt;strong&gt;Main supervision:&lt;/strong&gt; Prof. Dr. Benjamin Stocker
+&lt;strong&gt;Co-supervision:&lt;/strong&gt; Dr. Antoine Cabon, WSL Birmensdorf&lt;/p&gt;
+&lt;p&gt;Forests currently represent a large carbon sink, offsetting a quarter of human CO2 emissions each year, bur large uncertainty remains on the future strength of this sink. Namely, vegetation models assume that tree growth is essentially limited by photosynthesis, but recent evidence suggests that currently unaccounted for biophysical limitations to tree growth by low temperatures and water stress can substantially decouple tree growth from photosynthesis. The degree to which biophysical limitations might slow down forest carbon storage is still unclear but has potentially critical implications for climate projections.&lt;/p&gt;
+&lt;p&gt;The objective of this project is to implement biophysical limitations to tree growth in an established mechanistic vegetation model in order to quantify the effect of these new controls on forest primary production. This will require (1) designing the integration of fine scale biophysical equations with carbon-based tree growth schemes of the vegetation model, (2) evaluating model performance against annual and decadal observations of historical tree growth and forest production across Europe and (3) simulate forest production using current and new tree growth schemes to evaluate the impact of biophysical limitations on forest production under different climate scenarios.&lt;/p&gt;
+&lt;p&gt;This thesis is a great starting point for mechanistic ecosystem modelling and working with large datasets of the terrestrial biosphere. Basic knowledge of programming are a requirement and prior experience with R and/or Fortran are an advantage. You may start as soon as you like. Please contact me directly if you’re interested.&lt;/p&gt;
+&lt;p&gt;This Master project is part of the &lt;a href=&#34;https://www.wsl.ch/de/projekte/micss-physiological-drivers-of-tree-growth.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MiCSS project&lt;/a&gt;, led by &lt;a href=&#34;https://www.wsl.ch/de/mitarbeitende/cabonant.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Antoine Cabon, WSL Birmensdorf&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bachelor or Master thesis - High resolution quantification of seasonal water deficits</title>
+      <link>https://geco-group.org/joinus/hires_cwd/</link>
+      <pubDate>Wed, 21 Feb 2024 08:46:40 +0100</pubDate>
+      <guid>https://geco-group.org/joinus/hires_cwd/</guid>
       <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
 &lt;p&gt;Seasonal water deficits, caused by the imbalance of water from the land surface through evapotranspiration and runoff and the gain through precipitation, are an important driver of agricultural productivity and forest growth. Recent research by our group (Stocker et al., 2023) has revealed large spatial heterogeneity of seasonal water deficits across the globe at 5 km resolution - interpreted as a reflection of (otherwise unobservable) rooting zone water storage capacity across the soil and bedrock and of plant access to the groundwater, and as a reflection of water use in cropland areas.&lt;/p&gt;
 &lt;h2 id=&#34;aim&#34;&gt;Aim&lt;/h2&gt;
-&lt;p&gt;Novel data resources now provide analysis-ready data at field-scale resolution. This provides an opportunity to extend the analysis of Stocker et al. (2023) to the hillslope-scale. You will develop a workflow to access cloud-hosted Earth Observation data and perform analyses for deriving cumulative water deficits. This will generate crucial insights for a better understanding of the role of terrain in shaping plant water availability and for informing land managers about the sustainability of water resource use.&lt;/p&gt;
+&lt;p&gt;Novel data resources from &lt;a href=&#34;https://etdata.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OpenET&lt;/a&gt; now provide analysis-ready data at field-scale resolution. This provides an opportunity to extend the analysis of Stocker et al. (2023) to the hillslope-scale. You will develop a workflow to access cloud-hosted Earth Observation data and perform analyses for deriving cumulative water deficits. This will generate crucial insights for a better understanding of the role of terrain in shaping plant water availability and for informing land managers about the sustainability of water resource use.&lt;/p&gt;
 &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Most important: High motivation to work on questions related to land-atmosphere exchange and the carbon cycle - everything else can be learned!&lt;/li&gt;
@@ -69,9 +101,9 @@
     
     <item>
       <title>Master thesis - Global land carbon cycle modelling</title>
-      <link>https://geco-group.org/event/global_biomee/</link>
-      <pubDate>Tue, 21 Feb 2023 08:38:39 +0100</pubDate>
-      <guid>https://geco-group.org/event/global_biomee/</guid>
+      <link>https://geco-group.org/joinus/global_biomee/</link>
+      <pubDate>Wed, 21 Feb 2024 08:38:39 +0100</pubDate>
+      <guid>https://geco-group.org/joinus/global_biomee/</guid>
       <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
 &lt;p&gt;Dynamic Global Vegetation Models (DGVMs) are key tools for understanding biosphere-climate feedbacks and transient vegetation dynamics in response to global change. A novel vegetation demography model, the BiomeE, is a mechanistic cohort-based model which simulates vegetation dynamics and biogeochemical processes. This mechanistic model is able to simulate the size dependent competition, and thereby links plant functional traits, physiology, forest demography and stand dynamics. The GECO group has developed of a new framework for modelling of terrestrial biosphere processes (&lt;a href=&#34;https://geco-bern.github.io/rsofun/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;rsofun&lt;/a&gt;) that combines the BiomeE model with a photosynthesis model using optimality principles (P-model). This framework has been used to run site-level simulations in different regions, including boreal, temperate and tropical forests. Still, a global simulation capturing global patterns, has not carried out yet, but will be the basis for our future research on the global carbon cycle, potentially leading to participation in simulation activities for the Global Carbon Project. This thesis is an ideal entry point for your work in this direction.&lt;/p&gt;
 &lt;p&gt;
@@ -132,38 +164,34 @@
     </item>
     
     <item>
-      <title>Master thesis - Droughts in the last millennium</title>
-      <link>https://geco-group.org/event_old/cwd_millennium/</link>
-      <pubDate>Tue, 21 Feb 2023 08:36:01 +0100</pubDate>
-      <guid>https://geco-group.org/event_old/cwd_millennium/</guid>
+      <title>Master thesis - Trends in seasonal water deficits</title>
+      <link>https://geco-group.org/joinus/cwd_trends/</link>
+      <pubDate>Wed, 21 Feb 2024 08:36:01 +0100</pubDate>
+      <guid>https://geco-group.org/joinus/cwd_trends/</guid>
       <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
-&lt;p&gt;There is a current scientific debate if the intensity of the recent 2003, 2015, and 2018 droughts is exceptional in the context of the last millennium. Based on tree-ring reconstructions, some authors find them to be within the range of natural variability (Ionita et al. 2021), while others describe them to be unprecedented (Büntgen et al. 2021). Our new climate reconstructions, generated by data-informed climate model simulations enable a testing of these hypotheses (Hand et al., 2023).&lt;/p&gt;
+&lt;p&gt;Droughts have major impacts on fluxes between land and the atmosphere, agricultural production, and the carbon cycle. Future projections of drought magnitude and frequencies are surprisingly divergent and interpretations of trends from Earth System Model outputs have drawn conflicting pictures of drought impact trends in a heating climate. Trends in precipitation, evapotranspiration, soil moisture, and runoff often point in different directions and are relevant for different aspects of what may be referred to as a “droughts”.&lt;/p&gt;
 &lt;h2 id=&#34;aim&#34;&gt;Aim&lt;/h2&gt;
-&lt;p&gt;The goal of this thesis is the analysis of droughts in our new climate reconstruction, which combines various kinds of direct and indirect observations with model simulations since 1420 CE. The drought magnitude will be quantified by considering cumulative water deficits and the long-term statistics of drought event magnitudes will be established. The climate reconstruction (from observations-informed climate model simulations) would allow to study also possible causes like Atlantic sea surface temperature variability or shifts in large-scale atmospheric circulation.&lt;/p&gt;
+&lt;p&gt;You will target seasonal water deficits as an impact-relevant quantity measuring the severity of droughts. Using outputs from multiple models, scenarios, and model ensemble members of the the Climate Model Intercomparison Project Phase 6 (CMIP6), you will derive simulated cumulative water deficit (CWD) time series across the globe and investigate their long-term trends and differences between model projections.&lt;/p&gt;
+&lt;p&gt;This project builds on a completed BSc thesis and extends its focus to a larger set of model outputs and scenarios. Addressed as a MSc topic, there is a clear possiblity for a publication as a thesis outcome.&lt;/p&gt;
 &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Interest in working with large datasets from climate model outputs.&lt;/li&gt;
+&lt;li&gt;Most important: High motivation to work on questions related to land-atmosphere exchange and the water cycle - everything else can be learned!&lt;/li&gt;
+&lt;li&gt;Interest in working with large datasets from Earth System Model outputs.&lt;/li&gt;
 &lt;li&gt;Experience working with R or other data science tools are an advantage.&lt;/li&gt;
 &lt;li&gt;The student writes the thesis in English.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;supervision&#34;&gt;Supervision&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Prof. Benjamin Stocker, Prof. Stefan Brönnimann&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Hand, R., Samakinwa, E., Lipfert, L., and Brönnimann, S.: ModE-Sim – a medium-sized atmospheric general circulation model (AGCM) ensemble to study climate variability during the modern era (1420 to 2009), Geoscientific Model Development, 16, 4853–4866, &lt;a href=&#34;https://doi.org/10.5194/gmd-16-4853-2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.5194/gmd-16-4853-2023&lt;/a&gt;, 2023.&lt;/li&gt;
-&lt;li&gt;Ionita, M., Dima, M., Nagavciuc, V. et al. Past megadroughts in central Europe were longer, more severe and less warm than modern droughts. Commun Earth Environ 2, 61 (2021). &lt;a href=&#34;https://doi.org/10.1038/s43247-021-00130-w&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1038/s43247-021-00130-w&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Büntgen, U., Urban, O., Krusic, P.J. et al. Recent European drought extremes beyond Common Era background variability. Nat. Geosci. 14, 190–196 (2021). &lt;a href=&#34;https://doi.org/10.1038/s41561-021-00698-0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1038/s41561-021-00698-0&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Prof. Benjamin Stocker&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
-      <title>Master and Bachelors theses - Topographic controls on vegetation patterns</title>
-      <link>https://geco-group.org/event/topo_veg/</link>
-      <pubDate>Tue, 21 Feb 2023 08:19:24 +0100</pubDate>
-      <guid>https://geco-group.org/event/topo_veg/</guid>
+      <title>Master and Bachelor theses - Topographic controls on vegetation patterns</title>
+      <link>https://geco-group.org/joinus/topo_veg/</link>
+      <pubDate>Wed, 21 Feb 2024 08:19:24 +0100</pubDate>
+      <guid>https://geco-group.org/joinus/topo_veg/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Supervision:&lt;/strong&gt; Dr. Koen Hufkens and Prof. Benjamin Stocker&lt;/p&gt;
 &lt;p&gt;We call on students to determine the importance of topographic and soil factors on natural vegetative landscape components (forest cover fraction, vegetation height, woody fraction).&lt;/p&gt;
 &lt;p&gt;
@@ -201,24 +229,62 @@
     </item>
     
     <item>
-      <title>Master thesis - Sink vs. source control on tree growth</title>
-      <link>https://geco-group.org/event/sinksource/</link>
-      <pubDate>Wed, 14 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://geco-group.org/event/sinksource/</guid>
-      <description>&lt;!-- 
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
- --&gt;
-&lt;p&gt;&lt;strong&gt;Main supervision:&lt;/strong&gt; Prof. Dr. Benjamin Stocker, Dr. Jaideep Joshi
-&lt;strong&gt;Co-supervision:&lt;/strong&gt; Dr. Antoine Cabon, WSL Birmensdorf&lt;/p&gt;
-&lt;p&gt;Forests currently represent a large carbon sink, offsetting a quarter of human CO2 emissions each year, bur large uncertainty remains on the future strength of this sink. Namely, vegetation models assume that tree growth is essentially limited by photosynthesis, but recent evidence suggests that currently unaccounted for biophysical limitations to tree growth by low temperatures and water stress can substantially decouple tree growth from photosynthesis. The degree to which biophysical limitations might slow down forest carbon storage is still unclear but has potentially critical implications for climate projections.&lt;/p&gt;
-&lt;p&gt;The objective of this project is to implement biophysical limitations to tree growth in an established mechanistic vegetation model in order to quantify the effect of these new controls on forest primary production. This will require (1) designing the integration of fine scale biophysical equations with carbon-based tree growth schemes of the vegetation model, (2) evaluating model performance against annual and decadal observations of historical tree growth and forest production across Europe and (3) simulate forest production using current and new tree growth schemes to evaluate the impact of biophysical limitations on forest production under different climate scenarios.&lt;/p&gt;
-&lt;p&gt;This thesis is a great starting point for mechanistic ecosystem modelling and working with large datasets of the terrestrial biosphere. Basic knowledge of programming are a requirement and prior experience with R and/or Fortran are an advantage. You may start as soon as you like. Please contact me directly if you’re interested.&lt;/p&gt;
-&lt;p&gt;This Master project is part of the &lt;a href=&#34;https://www.wsl.ch/de/projekte/micss-physiological-drivers-of-tree-growth.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MiCSS project&lt;/a&gt;, led by &lt;a href=&#34;https://www.wsl.ch/de/mitarbeitende/cabonant.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Antoine Cabon, WSL Birmensdorf&lt;/a&gt;.&lt;/p&gt;
+      <title>Master thesis - Modelling optimal acclimation across canopy gradients</title>
+      <link>https://geco-group.org/joinus_old/canopy_gradients/</link>
+      <pubDate>Tue, 21 Feb 2023 09:09:34 +0100</pubDate>
+      <guid>https://geco-group.org/joinus_old/canopy_gradients/</guid>
+      <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
+&lt;p&gt;The rate of CO2 uptake by photosynthesis is determined by the acclimation of leaves to the prevailing light environment. In dense forests, light intensity decreases exponentially as we go from the top of the canopy towards the ground, as light is absorbed and scattered by leaves. However, the acclimated photosynthetic capacity of understorey leaves is higher than what we would expect based on the exponential decay of light. This is because these leaves acclimate to sun-flecks - small flecks of sunlight appear in understory due to gaps in the canopy, and because of the movement of the sun through the sky. Therefore, predicting the acclimation of understorey leaves requires considering the variability in light availability.&lt;/p&gt;
+&lt;h2 id=&#34;aim&#34;&gt;Aim&lt;/h2&gt;
+&lt;p&gt;The goals of this project are:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;To quantify the variability in direct and diffuse sunlight in the understorey, either using either a radiative transfer model, or using fat-tailed probability distributions&lt;/li&gt;
+&lt;li&gt;To use the P-model of photosynthesis to predict the optimal acclimation of photosynthetic capacity given the distribution of light intensity&lt;/li&gt;
+&lt;li&gt;To test the model predictions with data on canopy gradients from the CH-Lae site and possibly from the Netravali site.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Most important: High motivation to work on questions related to plant physiology.&lt;/li&gt;
+&lt;li&gt;Basic understanding of mathematical modelling and a keen interest to delve deeper into modelling and programming (R, Fortran)&lt;/li&gt;
+&lt;li&gt;Experience working with R or other data science tools are a prerequisite.&lt;/li&gt;
+&lt;li&gt;The student writes the thesis in English.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;methods&#34;&gt;Methods&lt;/h2&gt;
+&lt;p&gt;Implement the P-model (or some concept of optimality) in SPA (or any other model that simulates light gradient in canopy) at different levels of canopy depth and predict within-canopy gradients in photosynthetic capacity, leaf N, and LMA.&lt;/p&gt;
+&lt;h2 id=&#34;supervision&#34;&gt;Supervision&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Jaideep Joshi&lt;/li&gt;
+&lt;li&gt;Pascal Schneider&lt;/li&gt;
+&lt;li&gt;Prof. Benjamin Stocker&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Master thesis - Droughts in the last millennium</title>
+      <link>https://geco-group.org/joinus_old/cwd_millennium/</link>
+      <pubDate>Tue, 21 Feb 2023 08:36:01 +0100</pubDate>
+      <guid>https://geco-group.org/joinus_old/cwd_millennium/</guid>
+      <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
+&lt;p&gt;There is a current scientific debate if the intensity of the recent 2003, 2015, and 2018 droughts is exceptional in the context of the last millennium. Based on tree-ring reconstructions, some authors find them to be within the range of natural variability (Ionita et al. 2021), while others describe them to be unprecedented (Büntgen et al. 2021). Our new climate reconstructions, generated by data-informed climate model simulations enable a testing of these hypotheses (Hand et al., 2023).&lt;/p&gt;
+&lt;h2 id=&#34;aim&#34;&gt;Aim&lt;/h2&gt;
+&lt;p&gt;The goal of this thesis is the analysis of droughts in our new climate reconstruction, which combines various kinds of direct and indirect observations with model simulations since 1420 CE. The drought magnitude will be quantified by considering cumulative water deficits and the long-term statistics of drought event magnitudes will be established. The climate reconstruction (from observations-informed climate model simulations) would allow to study also possible causes like Atlantic sea surface temperature variability or shifts in large-scale atmospheric circulation.&lt;/p&gt;
+&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Interest in working with large datasets from climate model outputs.&lt;/li&gt;
+&lt;li&gt;Experience working with R or other data science tools are an advantage.&lt;/li&gt;
+&lt;li&gt;The student writes the thesis in English.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;supervision&#34;&gt;Supervision&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Prof. Benjamin Stocker, Prof. Stefan Brönnimann&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Hand, R., Samakinwa, E., Lipfert, L., and Brönnimann, S.: ModE-Sim – a medium-sized atmospheric general circulation model (AGCM) ensemble to study climate variability during the modern era (1420 to 2009), Geoscientific Model Development, 16, 4853–4866, &lt;a href=&#34;https://doi.org/10.5194/gmd-16-4853-2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.5194/gmd-16-4853-2023&lt;/a&gt;, 2023.&lt;/li&gt;
+&lt;li&gt;Ionita, M., Dima, M., Nagavciuc, V. et al. Past megadroughts in central Europe were longer, more severe and less warm than modern droughts. Commun Earth Environ 2, 61 (2021). &lt;a href=&#34;https://doi.org/10.1038/s43247-021-00130-w&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1038/s43247-021-00130-w&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Büntgen, U., Urban, O., Krusic, P.J. et al. Recent European drought extremes beyond Common Era background variability. Nat. Geosci. 14, 190–196 (2021). &lt;a href=&#34;https://doi.org/10.1038/s41561-021-00698-0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1038/s41561-021-00698-0&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     

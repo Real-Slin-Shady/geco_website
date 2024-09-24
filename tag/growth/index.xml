@@ -5,7 +5,7 @@
     <link>https://geco-group.org/tag/growth/</link>
       <atom:link href="https://geco-group.org/tag/growth/index.xml" rel="self" type="application/rss+xml" />
     <description>growth</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 21 Feb 2023 08:38:39 +0100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 21 Feb 2024 08:38:39 +0100</lastBuildDate>
     <image>
       <url>https://geco-group.org/media/logo_hue21406914225b119becd577af1fb7f4d_583632_300x300_fit_lanczos_3.png</url>
       <title>growth</title>
@@ -14,9 +14,9 @@
     
     <item>
       <title>Master thesis - Global land carbon cycle modelling</title>
-      <link>https://geco-group.org/event/global_biomee/</link>
-      <pubDate>Tue, 21 Feb 2023 08:38:39 +0100</pubDate>
-      <guid>https://geco-group.org/event/global_biomee/</guid>
+      <link>https://geco-group.org/joinus/global_biomee/</link>
+      <pubDate>Wed, 21 Feb 2024 08:38:39 +0100</pubDate>
+      <guid>https://geco-group.org/joinus/global_biomee/</guid>
       <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
 &lt;p&gt;Dynamic Global Vegetation Models (DGVMs) are key tools for understanding biosphere-climate feedbacks and transient vegetation dynamics in response to global change. A novel vegetation demography model, the BiomeE, is a mechanistic cohort-based model which simulates vegetation dynamics and biogeochemical processes. This mechanistic model is able to simulate the size dependent competition, and thereby links plant functional traits, physiology, forest demography and stand dynamics. The GECO group has developed of a new framework for modelling of terrestrial biosphere processes (&lt;a href=&#34;https://geco-bern.github.io/rsofun/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;rsofun&lt;/a&gt;) that combines the BiomeE model with a photosynthesis model using optimality principles (P-model). This framework has been used to run site-level simulations in different regions, including boreal, temperate and tropical forests. Still, a global simulation capturing global patterns, has not carried out yet, but will be the basis for our future research on the global carbon cycle, potentially leading to participation in simulation activities for the Global Carbon Project. This thesis is an ideal entry point for your work in this direction.&lt;/p&gt;
 &lt;p&gt;
