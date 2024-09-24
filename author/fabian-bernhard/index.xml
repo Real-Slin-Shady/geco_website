@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fabian Bernhard | Geocomputation and Earth Observation</title>
+    <link>https://geco-group.org/author/fabian-bernhard/</link>
+      <atom:link href="https://geco-group.org/author/fabian-bernhard/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fabian Bernhard</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://geco-group.org/author/fabian-bernhard/avatar_hufb4fd158b01a32e7ad181794c3d420b1_555029_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Fabian Bernhard</title>
+      <link>https://geco-group.org/author/fabian-bernhard/</link>
+    </image>
+    
+  </channel>
+</rss>
